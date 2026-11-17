@@ -1,101 +1,149 @@
 # Voxa GEN
 
-Gerador de chromatic scales para Windows: transforma samples de voz em uma escala cromática
-completa (WAV com marcadores de slice para o FL Studio Slicex + WAVs individuais), com três
-cadeias de processamento independentes (**Natural**, **Robot**, **Legacy**), um **LAB** para
-experimentação com 14 efeitos opcionais e comparação A/B, **Audio Preview** e **Chrom Preview** que
-usam exatamente o mesmo pipeline da exportação, projetos (`.vxproj`), exportação em lote, verificação
-de samples, personalização visual completa e 8 idiomas com troca ao vivo.
+Voxa GEN is a Windows tool for generating chromatic scales from voice samples. It takes a sample and turns it into a full chromatic scale, exporting a WAV file with slice markers for FL Studio Slicex, along with separate WAV files for each note.
 
-**Versão 1.0.0 — public release.** © 2026 Rambyte Team. Software livre sob a
-[GPL-3.0-or-later](LICENSE); créditos e assets de terceiros em [docs/LICENSES.md](docs/LICENSES.md).
+It has three independent processing chains: **Natural**, **Robot**, and **Legacy**. There's also a **LAB** where you can experiment with 14 optional effects and compare the results using A/B playback.
 
-## Instalação (código-fonte)
+The **Audio Preview** and **Chrom Preview** use the same audio pipeline as the export process, so what you hear in the previews is what gets exported.
 
-Requisitos: Windows 10/11 64-bit, Python 3.12+ (testado em 3.14.7).
+Other features include `.vxproj` project files, batch export, sample checking, full visual customization, and live language switching across 8 languages.
+
+**Version 1.0.0, public release.**
+
+© 2026 Rambyte Team. Free software under the [GPL-3.0-or-later](LICENSE) license. Third-party assets and their credits are listed in [docs/LICENSES.md](docs/LICENSES.md).
+
+## Installation (from source)
+
+Requirements: Windows 10 or 11 (64-bit), Python 3.12 or newer. Tested with Python 3.14.7.
 
 ```powershell
 py -3 -m venv .venv
 .venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-`requirements.txt` fixa `setuptools<81` porque o `pyworld` 0.3.5 ainda importa `pkg_resources`.
-O `pyworld` é compilado na instalação quando não há wheel para a sua versão do Python
-(exige o *Microsoft C++ Build Tools*).
+`requirements.txt` pins `setuptools<81` because `pyworld` 0.3.5 still imports `pkg_resources`.
 
-## Executar
+If a prebuilt wheel isn't available for your Python version, `pyworld` will be compiled during installation. This requires the *Microsoft C++ Build Tools*.
+
+## Running Voxa GEN
 
 ```powershell
 .venv\Scripts\python.exe run.py
 ```
 
-Ou `python -m voxagen`. Teste rápido sem interface: `python run.py --selftest relatorio.json`.
+You can also start it with:
 
-## Testes
+```powershell
+python -m voxagen
+```
+
+To run a quick check without opening the interface:
+
+```powershell
+python run.py --selftest report.json
+```
+
+## Tests
+
+Run the test suite with:
 
 ```powershell
 .venv\Scripts\python.exe -m pytest tests -q
 ```
 
-Order System, afinação (erro < 5 cents), formantes, duração, stereo/mono, normalização, fades,
-resampling, clipping, integridade dos WAVs, marcadores, conflitos, cancelamento, presets,
-configurações persistentes; cada efeito medido no sinal (tremolo muda só o volume, vibrato só a
-altura, frequency shifter desloca em Hz, etc.); cadeia, presets de efeitos e undo/redo; projetos,
-lote e analisador; traduções (cobertura e placeholders) e interface offscreen (navegação, efeitos,
-lote, projeto, aparência, troca de idioma ao vivo).
+The tests cover:
 
-Monitor visual (progresso ao vivo, teste em andamento, falhas e um botão **Verificar** para depois:
-traduções + self-test do app), com o tema que você escolheu em Aparência:
+- **Audio processing:** Order System, tuning accuracy (less than 5 cents of error), formants, duration, stereo and mono, normalization, fades, resampling, clipping, WAV integrity, and slice markers.
+- **Effects:** Each effect is checked against the audio signal. For example, tremolo changes volume without affecting pitch, vibrato changes pitch, and the frequency shifter moves frequencies by a measured amount in Hz.
+- **Editing and presets:** Effect chains, effect presets, undo/redo, and conflict handling.
+- **Projects and export:** Project files, batch export, the sample analyzer, and cancellation.
+- **Settings:** Presets and persistent settings.
+- **Localization and UI:** Translation coverage, placeholders, and the interface running offscreen. This includes navigation, effects, batch export, projects, appearance settings, and live language switching.
+
+### Visual test monitor
+
+The test monitor shows live progress, the test currently running, and any failures. It also has a **Verify** button for running the translation checks and the app self-test.
+
+It uses the theme selected under Appearance.
 
 ```powershell
 .venv\Scripts\python.exe tools\monitor\test_monitor.py
 ```
 
-Benchmark de exportação (mede o tempo e confere se o áudio sai idêntico bit a bit):
-`python tools/bench_export.py save <pasta>` antes de mudar o código, `compare <pasta>` depois.
+### Export benchmark
 
-Depois de mudar textos da interface: `python tools/i18n_extract.py --check` lista o que falta
-traduzir; acrescente as traduções em `tools/i18n/` e rode `python tools/i18n_build.py`.
+The benchmark measures export time and checks whether the resulting audio is bit-for-bit identical.
 
-## Build para Windows
+Save a baseline before changing the code:
+
+```powershell
+python tools/bench_export.py save <folder>
+```
+
+After making your changes, compare the results:
+
+```powershell
+python tools/bench_export.py compare <folder>
+```
+
+### Updating translations
+
+After changing UI text, run:
+
+```powershell
+python tools/i18n_extract.py --check
+```
+
+This lists any strings that still need translations. Add the translations under `tools/i18n/`, then rebuild the language files:
+
+```powershell
+python tools/i18n_build.py
+```
+
+## Building for Windows
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File packaging\build.ps1
 ```
 
-Gera `dist\VoxaGEN\VoxaGEN.exe` (pasta autocontida, sem Python instalado) e
-`dist\VoxaGEN-<versão>-win64.zip`. O script roda os testes, empacota, executa o
-`--selftest` no executável empacotado e só então cria o zip.
+The build script creates:
 
-## Documentação
+- `dist\VoxaGEN\VoxaGEN.exe`, a standalone folder build that doesn't require Python to be installed.
+- `dist\VoxaGEN-<version>-win64.zip`, a ZIP package of the build.
 
-- [Guia de uso](docs/USER_GUIDE.md) — samples e verificação, Order System, sequências, modos, LAB e
-  efeitos, previews e A/B, exportação, projetos, lote, presets, aparência, idiomas, sons.
-- [Algoritmos](docs/ALGORITHMS.md) — Natural, Robot, Legacy, detecção de pitch, exportação.
-- [Arquitetura](docs/ARCHITECTURE.md) — estrutura do projeto e fluxo de dados.
-- [Licença e créditos](docs/LICENSES.md) — GPL-3.0, dependências e assets de terceiros.
+Before creating the ZIP, the script runs the tests, packages the application, and runs `--selftest` on the packaged executable.
 
-## Estrutura
+## Documentation
 
-```
+- [User Guide](docs/USER_GUIDE.md): samples and sample checking, Order System, sequences, processing modes, LAB and effects, previews and A/B comparison, export, projects, batch processing, presets, appearance, languages, and interface sounds.
+- [Algorithms](docs/ALGORITHMS.md): Natural, Robot, and Legacy processing, pitch detection, temperaments, and export.
+- [Architecture](docs/ARCHITECTURE.md): project structure and data flow.
+- [Licenses and Credits](docs/LICENSES.md): GPL-3.0, dependencies, and third-party assets.
+
+## Project structure
+
+```text
 voxagen/
-  models/            configurações (dataclasses versionadas) e persistência
-  core/samples/      biblioteca de samples, identificadores, ordenação natural
-  core/sequences/    Order System (Sequential/Shuffle/Random/Vocal, BF Classic)
-  core/pitch/        afinação, temperamentos, detecção de pitch com confiança
-  core/audio/        DSP, engines (natural/robot/legacy), pipeline compartilhado
-  core/export/       writer RIFF com cue/labl, exportador transacional, validação
-  core/presets/      presets JSON versionados (nativos + do usuário)
-  core/effects/      14 efeitos do LAB, cadeia (wet/dry, bypass, ordem) e presets por categoria
-  core/projects/     arquivos de projeto .vxproj (salvar, abrir, relocalizar samples)
-  core/history.py    undo/redo
-  i18n/              tr() e idiomas (catálogos em assets/i18n, fontes em tools/i18n)
-  core/preview/      player de preview (QAudioSink) com A/B
-  core/notifications/ sons da interface (stream de áudio separado)
-  ui/                tema, ícones, widgets e páginas
-assets/              sons (FNF chartingSounds), logo, ícones, fontes e catálogos de idioma (assets/i18n)
-tools/               extração e geração das traduções
-tests/               testes automatizados
-docs/                documentação
-packaging/           PyInstaller spec e script de build
+  models/             Versioned configuration dataclasses and persistence
+  core/
+    samples/          Sample library, identifiers, and natural sorting
+    sequences/        Order System (Sequential, Shuffle, Random, Vocal, BF Classic)
+    pitch/             Tuning, temperaments, and pitch detection with confidence
+    audio/             DSP, processing engines (Natural, Robot, Legacy), shared pipeline
+    export/            RIFF writer with cue/labl markers, transactional exporter, validation
+    presets/           Versioned JSON presets (built-in and user-created)
+    effects/            14 LAB effects, effect chain (wet/dry, bypass, order), category presets
+    projects/           .vxproj files (save, open, and relink samples)
+    history.py          Undo/redo
+    preview/            Preview player (QAudioSink) with A/B comparison
+    notifications/      Interface sounds (separate audio stream)
+  i18n/                tr() and language support
+
+  ui/                  Theme, icons, widgets, and pages
+
+assets/                Sounds (FNF chartingSounds), logo, icons, fonts, and language catalogs
+tools/                 Translation extraction and generation
+tests/                 Automated tests
+docs/                  Documentation
+packaging/             PyInstaller spec and build script
 ```
