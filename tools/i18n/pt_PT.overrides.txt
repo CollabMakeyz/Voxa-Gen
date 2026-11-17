@@ -1,0 +1,10 @@
+0309|Aspeto
+0310|Cores, tipo de letra e tamanhos de toda a aplicação
+0348|Tipo de letra
+0346|O tipo de letra e o tamanho de todo o texto da aplicação. Os separadores de pasta mantêm o tipo de letra pixelizado.
+0837|Definições
+0838|As preferências são guardadas automaticamente
+0300|Exportação concluída
+0558|Exportação concluída
+0553|Cancelar
+0870|Para onde vão as exportações quando o campo “Guardar em” do Gerador está vazio.

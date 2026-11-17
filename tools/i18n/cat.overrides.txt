@@ -1,0 +1,32 @@
+# Meowgwenge: English cat-speak. Rules in tools/i18n_build.py (to_cat); these lines win over the rules.
+0305|Generate (meow)
+0309|Fur and Whiskers
+0837|Scratching Post
+0401|Meow Generator
+0402|Turn voice samples into a complete chromatic scale, purr
+0558|Meowxport complete! Prrr~
+0559|The meowxport fell off the table
+0560|Meowxport knocked off the table
+0552|Meowxport chromatic
+0556|Ready to meowxport
+0198|Done, purr
+0301|Hairball!
+1123|Ears up!
+0283|No usable samples in the cat bed, meow.
+0991|Let the current meowxport finish its nap.
+0989|Every hunt is done, prrr
+0685|Rendering… (sharpening claws)
+0686|Up to date, purr
+0380|Everything is easy to read, even for kittens.
+0957|No hairballs in {n} samples. Prrr!
+1136|Nest opened
+1146|Nest stashed: {name}
+# credits stay plain (names and licenses must be exact)
+1421|The people and projects Voxa GEN is built on. Purr.
+1422|Made by Rambyte Team.
+1423|Interface sounds: Friday Night Funkin' charting sounds by The Funkin' Crew Inc., used with credit.
+1424|Fonts: Inter by Rasmus Andersson (SIL OFL 1.1); VCR OSD Mono by Riciery Leal, used with credit.
+1425|Pitch analysis and the Legacy mode: Praat by Paul Boersma and David Weenink, through Parselmouth by Yannick Jadoul (GPL-3.0).
+1426|Voice analysis and resynthesis: WORLD by Masanori Morise, through pyworld.
+1427|Also: Qt / PySide6, NumPy, SciPy, libsndfile and libsoxr.
+1430|Voxa GEN is free software: you can share and change it under the GNU General Public License, version 3 or later. It comes with no warranty.

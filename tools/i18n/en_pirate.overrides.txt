@@ -1,0 +1,34 @@
+0305|Forge
+0309|Ship's Paint
+0837|Riggin'
+0401|Th' Forge
+0402|Turn yer voice shanties into a full chromatic scale, arr!
+0558|Plunder complete, arr!
+0559|Plunder failed, blast it!
+0560|Plunder belayed
+0552|Plunder th' chromatic
+0556|Ready t' plunder
+0198|Done, arr
+0301|Blunder!
+1123|Avast!
+0283|There be no usable shanties aboard.
+0991|Hold fast till th' current plunder be finished.
+0989|Th' whole fleet be plundered
+1136|Ship's log opened
+1146|Ship's log stowed: {name}
+1128|New voyage
+1130|Open log
+1132|Stow
+1134|Stow as…
+0553|Belay
+0295|Undo, arr
+0644|Redo, arr
+0957|No blunders found in {n} shanties. Fair winds!
+0853|Pirate English an' Meowgwenge be joke tongues, but everythin' still works an' makes sense, savvy?
+1422|Made by Rambyte Team.
+1423|Interface sounds: Friday Night Funkin' charting sounds by The Funkin' Crew Inc., used with credit.
+1424|Fonts: Inter by Rasmus Andersson (SIL OFL 1.1); VCR OSD Mono by Riciery Leal, used with credit.
+1425|Pitch analysis and the Legacy mode: Praat by Paul Boersma and David Weenink, through Parselmouth by Yannick Jadoul (GPL-3.0).
+1426|Voice analysis and resynthesis: WORLD by Masanori Morise, through pyworld.
+1427|Also: Qt / PySide6, NumPy, SciPy, libsndfile and libsoxr.
+1430|Voxa GEN is free software: you can share and change it under the GNU General Public License, version 3 or later. It comes with no warranty.

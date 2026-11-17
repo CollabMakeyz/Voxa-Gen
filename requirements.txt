@@ -1,0 +1,11 @@
+PySide6>=6.7
+numpy>=2.0
+scipy>=1.13
+soundfile>=0.12
+soxr>=0.5
+praat-parselmouth>=0.4.4
+pyworld>=0.3.4
+# pyworld 0.3.5 imports pkg_resources to read its version; setuptools>=81 removed it.
+setuptools<81
+pytest>=8
+pyinstaller>=6.6

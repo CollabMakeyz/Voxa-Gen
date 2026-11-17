@@ -1,0 +1,28 @@
+# Strings that stay as they are in every language (names, shortcuts, file names, units)
+ Hz
+Voxa GEN
+Inter
+Primary
+Mono
+Danger
+Ctrl+S
+Hint
+Hz
+Ctrl+Z
+Ctrl+Y
+Ctrl+Shift+Z
+LICENSES.md
+Segoe UI
+VCR OSD Mono
+Cascadia Mono
+Yu Gothic UI
+Meiryo UI
+Meiryo
+MS UI Gothic
+Noto Sans JP
+(border-radius|border-top-left-radius|border-top-right-radius): (\\d+)px
+Consolas
+padding: ((?:\\d+px ?)+);
+Ctrl+Up
+Ctrl+Down
+Ctrl+D

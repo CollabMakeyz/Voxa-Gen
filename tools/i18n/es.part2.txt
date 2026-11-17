@@ -1,0 +1,508 @@
+0701|Altura original
+0702|Objetivo
+0703|Altura del resultado
+0704|Error de altura
+0705|Duración antes → después
+0706|Tiempo de procesamiento
+0707|Parte cantada
+0708|Volumen A → B
+0709|Guardar en este perfil
+0710|Duplicar
+0711|Restaurar la versión original
+0712|Importar desde un archivo…
+0713|Exportar a un archivo…
+0714|La altura de {id} no es fiable: {reason}
+0715|Deshacer: {what} (Ctrl+Z)
+0716|Nada que deshacer
+0717|Rehacer: {what} (Ctrl+Y)
+0718|Nada que rehacer
+0719|no detectada
+0720|{value} cents
+0721|no medible
+0722|La Corrección de altura está desactivada: la salida conserva la altura de origen.
+0723|La reproducción A/B tiene el volumen igualado para que las diferencias de nivel no influyan en la comparación.
+0724|La cadena de efectos no forma parte de esta comparación; escúchala en la pestaña Efectos.
+0725|Sonando ahora: {side} · {what}
+0726| · nativo, modificado
+0727|Perfil “{name}” cargado.
+0728|Ya existe un perfil llamado “{name}”.
+0729|Error: {error}
+0730| · nativo
+0731|Cambiar perfil nativo
+0732|¿Sobrescribir el perfil nativo “{name}”? Podrás restaurarlo después.
+0733|Mi perfil
+0734|Presets
+0735|Guarda, comparte y restaura secuencias, ajustes de modo, perfiles del LAB, cadenas de efectos y ajustes de exportación
+0736|Importar…
+0737|Detalles
+0738|Lo que contiene este preset. “Aplicar” lo carga en el Generador; no se exporta nada hasta que pulses Exportar.
+0739|Descripción
+0740|Aplicar
+0741|Cargar este preset en la configuración actual
+0742|Guardar actual como nuevo
+0743|Crear un preset de este tipo con tus ajustes actuales
+0744|Los presets se agrupan según lo que cambian.
+0745|Los presets nativos vienen con Voxa GEN; los tuyos aparecen después.
+0746|“{name}” aplicado.
+0747|Renombrar preset
+0748|Nuevo nombre:
+0749|Restaurar presets nativos
+0750|¿Deshacer todos los cambios hechos en los presets nativos? Tus presets se conservan.
+0751|Exportar preset
+0752|Importar presets
+0753|Ajuste
+0754|Valor
+0755|  · nativo, modificado
+0756|Ningún preset
+0757|Nativo, modificado
+0758|Aplicar carga estos ajustes en el Generador. Los presets nativos se pueden editar; Restaurar devuelve el original.
+0759|Nuevo preset
+0760|Nombre del nuevo preset ({kind}):
+0761|Ya existe un preset con ese nombre.
+0762|“{name}” creado.
+0763|“{name}” actualizado.
+0764|Borrar preset
+0765|Restaurar todos los presets nativos
+0766|Abrir la carpeta de presets
+0767|Actualizar con los ajustes actuales
+0768|Guardar descripción
+0769|Renombrar…
+0770|  · nativo
+0771|Nativo
+0772|Tuyo
+0773|Activa “Usar efectos” en el LAB o en la pestaña Exportación para exportar con él.
+0774|Actualizar preset
+0775|¿Sobrescribir “{name}” con los ajustes actuales?
+0776|Preset exportado.
+0777|Mi preset
+0778|Usar
+0779|Archivo
+0780|Duración
+0781|Can.
+0782|Altura
+0783|Confianza
+0784|Estado
+0785|Gestor de samples
+0786|Cada sample, su formato, su nota y una vista previa. Tus archivos nunca se modifican.
+0787|Numerados (1, 2, 3…)
+0788|Letras (a, e, i…)
+0789|Variaciones (a2, e3…)
+0790|Otros nombres
+0791|Archivos que faltan
+0792|Duplicados
+0793|Ilegibles
+0794|Sin usar
+0795|Altura dudosa
+0796|Añadir archivos
+0797|Añadir carpeta
+0798|Volver a escanear
+0799|Leer de nuevo todos los archivos del disco (encuentra archivos cambiados, nuevos y que faltan)
+0800|Buscar…
+0801|Encontrar las notas
+0802|Detecta en qué nota está cantado cada sample (los seleccionados, o todos)
+0803|Reemplazar…
+0804|Apuntar este identificador a otro archivo (el identificador se conserva)
+0805|Quitar de la sesión
+0806|Solo lo quita de Voxa GEN; el archivo no se borra
+0807|Usar / no usar
+0808|Incluir o dejar fuera los samples seleccionados al generar la cromática
+0809|Marca “Usar” para incluir un sample en la cromática. “Encontrar las notas” detecta la altura de cada sample; “dudosa” significa que no se pudo medir con seguridad.
+0810|Suelta archivos WAV o carpetas para añadirlos a la sesión
+0811|Sample seleccionado
+0812|Detalles del sample en el que hiciste clic y cómo suena antes y después del procesamiento.
+0813|Selecciona un sample para ver sus detalles.
+0814|Escuchar
+0815|Aún no hay samples
+0816|Añade una carpeta de archivos WAV. Los nombres como 1.wav, a.wav o e2.wav se reconocen automáticamente; cualquier otro nombre también funciona.
+0817|{shown} visibles · {n} en total · faltan {miss} · {dup} duplicados · {err} ilegibles
+0818|Reemplazar “{id}”
+0819|Contenido idéntico a {id}
+0820|“{id}” ahora usa {file}
+0821|¿Quitar {n} sample(s) de esta sesión? Los archivos del disco no se tocan.
+0822|Detección de altura cancelada.
+0823|Altura analizada en {n} sample(s)
+0824|sin analizar
+0825|Falta el archivo
+0826|duplicado de {id}
+0827|sin usar
+0828|{n} samples seleccionados.
+0829|{n} cuadros
+0830|Altura {note} ({hz} Hz) · cantado {v} · dispersión {sp} ct · confianza {c}
+0831|Altura no fiable: {reason}
+0832|La detección de altura falló: {error}
+0833|dudosa — {reason}
+0834|{n} sin suficiente confianza
+0835|mono
+0836|{n} canales
+0837|Ajustes
+0838|Las preferencias se guardan automáticamente
+0839|General
+0840|Sonidos
+0841|Notificaciones
+0842|Exportación y vista previa
+0843|Acerca de
+0844|Reproducir
+0845|Oír este sonido
+0846|Tu archivo…
+0847|Usar tu propio archivo de sonido (WAV, OGG, MP3, FLAC; hasta 5 segundos)
+0848|Elegir sonido
+0849|Audio (*.wav *.ogg *.mp3 *.flac)
+0850|Idioma y comportamiento de la app. Los colores, las fuentes y los tamaños están en la página Apariencia.
+0851|Idioma
+0852|El idioma de todos los textos de Voxa GEN: botones, explicaciones, ayuda y notificaciones. Cambia al instante; no se reinicia nada y no se pierde ningún trabajo.
+0853|Pirate English y Meowgwenge son idiomas de broma, pero todo sigue funcionando y se entiende.
+0854|Abrir Apariencia
+0855|Tema y colores
+0856|Los temas, colores, fuente, tamaño del texto y redondez están en la página Apariencia.
+0857|Transiciones animadas
+0858|Fundidos cortos al cambiar de página o pestaña. Desactívalo si prefieres cambios instantáneos.
+0859|Animaciones
+0860|Barra lateral pequeña (solo iconos)
+0861|Oculta el logo y los nombres de las páginas para dejar más espacio al contenido.
+0862|Barra lateral pequeña
+0863|Sonidos de la interfaz
+0864|Sonidos pequeños para clics, exportaciones y errores. Tienen su propio canal de audio y nunca acaban en las vistas previas ni en los archivos exportados.
+0865|Reproducir sonidos de la interfaz
+0866|Restaurar sonidos predeterminados
+0867|Voxa GEN muestra sus propias notificaciones en la esquina superior derecha de la pantalla. Los errores y las exportaciones terminadas siempre se muestran.
+0868|Valores predeterminados para nuevas exportaciones y comportamiento de las vistas previas.
+0869|Carpeta de exportación predeterminada
+0870|Adónde van las exportaciones cuando el campo “Guardar en” del Generador está vacío.
+0871|Volumen de la vista previa
+0872|Solo cambia el volumen de las vistas previas. Las exportaciones no se ven afectadas.
+0873|Actualizar las vistas previas automáticamente
+0874|Vuelve a renderizar las vistas previas cuando cambias un ajuste. Desactívalo en equipos lentos y usa el botón Renderizar.
+0875|Vistas previas automáticas
+0876|Repetir vistas previas
+0877|Empezar las vistas previas con la repetición activada.
+0878|Vaciar
+0879|Renders guardados
+0880|Las notas procesadas se guardan en disco para que las vistas previas y las exportaciones no repitan el mismo trabajo. Vaciarlo libera espacio; nada más cambia.
+0881|Deshace los cambios que hiciste en los presets que vienen con Voxa GEN. Tus propios presets se conservan.
+0882|Versión, documentación y dónde se guardan tus datos.
+0883|Documentación
+0884|Licencias
+0885|Abrir carpeta de datos
+0886|Sonidos predeterminados restaurados.
+0887|Carpeta de exportación predeterminada
+0888|Caché de renders vaciada.
+0889|Volver al sonido predeterminado: {name}
+0890|Cada evento de abajo se puede desactivar, bajar de volumen, escuchar o reemplazar por un archivo tuyo (WAV, OGG, MP3 o FLAC, hasta 5 segundos).
+0891|Cuándo
+0892|Sonido
+0893|Volumen
+0894|Mostrar otras notificaciones
+0895|Pequeñas confirmaciones como “Preset guardado” o “Altura analizada”.
+0896|Hacer parpadear la barra de tareas al terminar una exportación
+0897|Útil cuando Voxa GEN está detrás de otras ventanas durante una exportación larga.
+0898|Preguntar antes de cancelar una exportación
+0899|Evita cancelar una exportación larga por accidente.
+0900|{mb} MB
+0901|Vaciar la caché de renders
+0902|¿Borrar todos los renders en caché? Las vistas previas se volverán a renderizar.
+0903|Personalizado · {name}
+0904|Ajustes, presets y proyectos: {path}
+0905|Renders guardados: {path}
+0906|{n} preset(s) nativo(s) restaurado(s).
+0907|No encontrado: {path}
+0908|No se pudo importar el sonido: {error}
+0918|Texto sobre las tarjetas
+0919|Texto sobre el panel
+0920|Texto sobre el fondo
+0921|Texto sobre los botones
+0922|Texto secundario sobre las tarjetas
+0923|Texto sobre los botones primarios
+0924|Contorno de resaltado sobre las tarjetas
+0925|Azul medianoche
+0926|Cian de Boyfriend
+0927|Rosa de Girlfriend
+0928|Limón claro
+0929|Alto contraste
+0933|Problema
+0934|Revisar
+0935|Nota
+0936|Revisar samples
+0937|Busca lo que haría sonar mal una cromática: archivos que faltan o no se pueden leer, silencio, saturación, notas mucho más fuertes o suaves que el resto, duraciones muy distintas. Los archivos solo se leen, nunca se cambian.
+0938|Revisar todos los samples
+0939|Revisión de samples
+0940|Cada hallazgo dice qué está mal y cómo arreglarlo. “Problema” romperá o silenciará notas; “Revisar” probablemente sonará desigual; “Nota” es solo información. Haz doble clic en un hallazgo para seleccionar ese sample.
+0941|Vuelve a ejecutarla después de cambiar o reemplazar archivos.
+0942|Detalles técnicos
+0943|Medido en cada sample: pico, volumen de la parte cantada, silencio antes y después, duración y formato.
+0944|No hay samples cargados.
+0945|Los samples cambiaron desde la última revisión. Vuelve a ejecutarla.
+0946|Revisión cancelada.
+0947|Qué está mal
+0948|Cómo arreglarlo
+0949|Pico
+0950|Volumen
+0951|Silencio antes
+0952|Silencio después
+0953|Duración
+0954|Formato
+0955|Recortadas
+0956|Aún sin revisar. Revisa antes de exportar para detectar problemas a tiempo.
+0957|No se encontraron problemas en {n} samples.
+0958|{e} problemas · {w} por revisar · {i} notas
+0959|La revisión falló: {error}
+0960|En espera
+0961|En curso
+0962|Falló
+0963|Omitida
+0964|Destino
+0965|Progreso
+0966|Añadir a la cola
+0967|Una tarea es una foto de TODOS los ajustes actuales del Generador: samples, orden, modo, efectos, exportación. Cambia algo, añade otra tarea y exporta varias versiones de una vez.
+0968|Nombre de la tarea (opcional)
+0969|Nombre
+0970|Se muestra en la cola. Déjalo vacío para usar el nombre de la carpeta de exportación.
+0971|Usar una nueva carpeta numerada
+0972|Omitir la tarea
+0973|Si la carpeta ya tiene archivos
+0974|Las tareas en lote nunca sobrescriben archivos. Una nueva carpeta numerada (por ejemplo “Export (2)”) conserva ambas; Omitir deja la exportación existente como está y marca la tarea como omitida.
+0975|Recomendado: una nueva carpeta numerada.
+0976|Añadir los ajustes actuales
+0977|Cola en lote
+0978|Las tareas se ejecutan una tras otra en segundo plano; puedes seguir trabajando. Una tarea que falla no detiene las demás.
+0979|Subir
+0980|Bajar
+0981|Quitar
+0982|Ejecutar de nuevo
+0983|Volver a poner en cola una tarea terminada, fallida o cancelada
+0984|Limpiar terminadas
+0985|Iniciar cola
+0986|Exportación en lote
+0987|Exporta cada tarea en espera por orden, cada una con sus propios ajustes guardados. El progreso se ve por tarea y para toda la cola. Cancelar detiene la tarea actual (no se guarda nada a medias) y deja el resto esperando.
+0988|{done} hechas · {failed} fallidas · {other} canceladas u omitidas
+0989|Exportación en lote terminada
+0990|“{name}” añadida a la cola ({n} tareas).
+0991|Espera a que termine la exportación actual.
+0992|No hay tareas en espera en la cola. Añade una o usa “Ejecutar de nuevo”.
+0993|La exportación en lote falló
+0994|Ejecutando “{name}” · {n} en espera
+0995|{n} samples · destino: {dest}
+0996|Selecciona una tarea para ver sus detalles. Haz doble clic en una tarea terminada para abrir su carpeta.
+0997|{n} tareas · {w} en espera
+0998|La cola está vacía.
+0999|Cancelar el lote
+1000|¿Detener la cola? La tarea actual se cancela y no se guarda nada a medias.
+1001|Renderiza la vista previa para oír la cromática
+1002|Renderizar vista previa
+1003|Reproducir rango
+1004|Reproducir notas seguidas de → a
+1005|Reproducir todo
+1006|Mismo pipeline que la exportación
+1007|Desactualizada — los ajustes cambiaron
+1008|Samples de origen asignados a las notas, sin procesar la altura
+1009|Notas
+1010|a
+1011|Carga samples primero (Generador → Origen o pestaña Samples).
+1012|no hay samples cargados
+1013|Vista previa cancelada: faltan samples
+1014|Vista previa cancelada
+1015|Más
+1016|Continuar
+1017|Ayuda: {topic}
+1018|Ayuda
+1019|Volver al valor predeterminado ({value})
+1020|Los archivos ya existen
+1021|Sobrescribir estos archivos
+1022|Faltan samples
+1023|Aplicar y continuar
+1024|Algunos elementos de la secuencia no tienen archivo correspondiente.
+1025|Elige qué hacer con cada uno. La asignación es explícita y se guarda con la configuración; omitir quita ese elemento del orden.
+1026|Elegir…
+1027|Omitir este elemento
+1028|Guardar preset de efectos
+1029|Categoría
+1030|Dónde aparece el preset. Puedes filtrar los presets por categoría.
+1031|Cadena de efectos
+1032|Los efectos se aplican de arriba abajo en cada nota. Desmarca un efecto para saltártelo. Los efectos son opcionales y nunca modifican tus archivos de samples.
+1033|Usar efectos en vistas previas y exportaciones
+1034|Usar efectos
+1035|Activado, la cadena de abajo se aplica después del modo de exportación (Natural, Robot, Legacy o Lab) en la vista previa de la cromática, la exportación y la cola en lote. Desactivado, las exportaciones suenan exactamente como sin efectos. El reproductor A/B de abajo toca la cadena igualmente.
+1036|Predeterminado: desactivado. Los efectos nunca se aplican si no activas esto.
+1037|Añadir efecto
+1038|Mover el efecto seleccionado antes en la cadena (Ctrl+Up)
+1039|Mover el efecto seleccionado después en la cadena (Ctrl+Down)
+1040|Quitar el efecto seleccionado (Delete)
+1041|Quitar efecto
+1042|Duplicar efecto
+1043|Reordenar efectos
+1044|Ajustes del efecto
+1045|Los controles del efecto seleccionado en la cadena. Cada control tiene un “?”.
+1046|Restablecer este efecto
+1047|Cambiar ajuste del efecto
+1048|Cambiar mezcla (wet/dry)
+1049|Restablecer efecto
+1050|Presets de efectos
+1051|Cadenas listas por categoría. Carga una, cámbiala y guárdala como tuya. Los presets nativos se pueden cambiar y restaurar.
+1052|Todas las categorías
+1053|Reemplazar la cadena por este preset (se puede deshacer)
+1054|Cargar preset de efectos
+1055|Escuchar: antes / después
+1056|A reproduce el sample con el modo de exportación actual sin efectos, B con la cadena. Alterna con A / B (o la tecla B): la posición se mantiene y el volumen se iguala.
+1059|El orden importa: una distorsión antes de un EQ queda domada por él; después, el EQ moldea lo que recibe la distorsión.
+1060|Efecto añadido. Activa “Usar efectos en vistas previas y exportaciones” para exportar con él.
+1061|Saltar efecto
+1062|Wet / Dry
+1063| Activa “Usar efectos” para exportar con él.
+1064|Añade al menos un efecto antes de guardar un preset.
+1065|¿Borrar el preset de efectos “{name}”?
+1066|Importar preset de efectos
+1067|Mis efectos
+1068|Exportar preset de efectos
+1069|Desactivado: los efectos no cambian las exportaciones.
+1070|La cadena está llena ({n} efectos).
+1071|Añade un efecto con “Añadir efecto” y selecciónalo para cambiar sus ajustes.
+1072|Usa análisis de voz: el renderizado tarda más (los resultados se guardan en caché).
+1073|Guardar en este preset
+1074|“{name}” cargado.
+1075|Ya existe un preset llamado “{name}”.
+1076|“{name}” importado, pero no es un preset de efectos.
+1077|Efecto desconocido
+1078|Activado, pero ningún efecto está activo.
+1079|Activado: {n} de {total} efectos se aplican en vistas previas y exportaciones.
+1080|Este efecto ('{id}') no está disponible en esta versión.
+1081|Cambiar preset nativo
+1082|¿Sobrescribir el preset nativo “{name}”? Podrás restaurarlo después.
+1083|Sin notas
+1084|Estándar · cuadros de 5 ms
+1085|Alta · cuadros de 2,5 ms
+1086|Ultra · cuadros de 1 ms
+1087|Corrección de altura
+1088|Con cuánta fuerza la deriva lenta de altura se lleva a la nota objetivo. 100 % = totalmente plana en el objetivo. Los valores bajos conservan algo de la deriva natural del cantante (siempre centrada en el objetivo).
+1089|Humanización
+1090|Conserva la microvariación natural y rápida (vibrato, jitter) del origen. Su media es cero y tiene un límite. La nota sigue afinada.
+1091|Límite de humanización
+1092|Desviación máxima de altura que la humanización puede conservar, en cents.
+1093|Conservación de formantes
+1094|100 % conserva las resonancias del tracto vocal del origen (la misma voz a cualquier altura). 0 % las mueve con la altura (efecto ardilla / gigante).
+1095|Control de transitorios
+1096|Vuelve a mezclar los ataques originales alineados en el tiempo, manteniendo nítidos los clics de las consonantes y los inicios.
+1097|Ventana de transitorio
+1098|Duración de cada ataque conservado.
+1099|Suavizado
+1100|Suavizado temporal de la envolvente espectral y de las transiciones cantado/no cantado. Reduce el aleteo; demasiado ablanda la articulación.
+1101|Reducción de artefactos
+1102|Sube el suelo de aperiodicidad en los agudos (menos zumbido metálico) y limita los saltos de envolvente entre cuadros (menos ondulación).
+1103|Procesamiento cantado/no cantado
+1104|Las consonantes, las respiraciones y el silencio no tienen altura: esta parte sale del original intacto en lugar de la resíntesis.
+1105|Mezcla entre la salida refinada (wet) y la resíntesis simple (dry). Las dos están en la altura objetivo. Moverlo nunca desafina nada.
+1106|Calidad de procesamiento
+1107|Resolución del análisis. Más alta es más detallada y más lenta; nunca cambia la altura objetivo.
+1108|Calidad de remuestreo
+1109|Calidad de la conversión final a la frecuencia de muestreo de la exportación (soxr).
+1110|Iguala el volumen de la nota procesada al del origen (RMS activo, ±12 dB como máximo).
+1111|Iguala el volumen de cada nota procesada al del sample original. La afinación no hará las notas más fuertes ni más suaves (como máximo ±12 dB).
+1112|Separar cantado/no cantado
+1113|Procesa por separado los tramos cantados y no cantados (ver Procesamiento cantado/no cantado).
+1114|Trata por separado las partes cantadas y las no cantadas, como respiraciones y consonantes. Déjalo activado para unas consonantes naturales.
+1115|Rango de análisis automático (recomendado)
+1116|Detecta el rango de la voz automáticamente. Desactívalo para fijar a mano el rango de búsqueda de altura.
+1117|Encuentra solo el rango de la voz. Desactívalo solo si una voz muy grave o muy aguda se detecta mal, y luego fija el rango abajo.
+1118|Rango automático
+1119|Límite inferior de búsqueda
+1120|La altura más grave en la que se busca la voz (cuando el rango automático está desactivado).
+1121|Límite superior de búsqueda
+1122|La altura más aguda en la que se busca la voz (cuando el rango automático está desactivado).
+1123|Atención
+1124|Descartar
+1125|No se encontraron samples
+1126|Localizar el seleccionado…
+1127|Buscar en una carpeta…
+1128|Nuevo
+1129|Empezar un proyecto nuevo y vacío (se restablecen los samples y los ajustes)
+1130|Abrir
+1131|Abrir un proyecto (.vxproj). La flecha muestra los proyectos recientes.
+1132|Guardar
+1133|Guardar el proyecto (Ctrl+S)
+1134|Guardar como…
+1135|{n} samples
+1136|Proyecto abierto
+1137|Algunos samples de este proyecto no están donde se guardaron.
+1138|Localiza cada archivo, o busca en una carpeta y sus subcarpetas todos a la vez. Los archivos se encuentran por nombre; si varios comparten nombre, gana el que tenga el mismo contenido. También puedes abrir el proyecto sin ellos: quedan listados como faltantes.
+1139|Abrir proyecto
+1140|Localizar “{id}”
+1141|Buscar los samples que faltan en una carpeta
+1142|Proyecto sin título
+1143|Cambios sin guardar
+1144|“{name}” tiene cambios sin guardar. ¿Continuar sin guardarlos?
+1145|Continuar sin guardar
+1146|Proyecto guardado: {name}
+1147|Guardar proyecto
+1148|Proyecto de Voxa GEN (*{ext})
+1149|Estado
+1150|Encontrado (contenido cambiado)
+1151|Aún faltan {n}.
+1152|Se encontraron todos los samples.
+1153|Aún no se guardó como proyecto
+1154|No hay proyectos recientes
+1155|Mi cromática
+1156|creado con un Voxa GEN más nuevo: se ignoraron los ajustes desconocidos
+1157|Encontrado
+1158|Falta
+1159|No se pudo guardar el proyecto: {error}
+1160|Nuevo proyecto
+1161|¿Empezar de cero sin samples y con los ajustes predeterminados?
+1162|Empezar de cero
+1163|cambios sin guardar
+1164|Natural
+1165|Lab
+1166|Sin efectos
+1167|Con efectos
+1168|Selecciona un sample para escucharlo
+1169|Usar la nota más cercana a la altura detectada del sample
+1170|A / B
+1171|Alternar entre A y B en la misma posición (atajo: B)
+1172|A · Sin efectos
+1173|Aún no hay una altura fiable para este sample (usa “Encontrar las notas” en Samples).
+1174|Renderizando {what}…
+1175|objetivo {note}
+1176|{sec} s
+1177|Listo · mismo pipeline que la exportación
+1178|Ajustes cambiados · pulsa reproducir para volver a renderizar
+1179|origen ≈ {hz} Hz
+1180|Reemplazar la secuencia actual por el preset seleccionado
+1181|Guardar la secuencia actual como un nuevo preset
+1182|Escribe nombres de samples, p. ej.  a e2 o  — Enter los añade
+1183|Añadir
+1184|Insertar
+1185|Insertar después del elemento seleccionado
+1186|Deshacer el último cambio (Ctrl+Z)
+1187|Haz clic en un nombre para seleccionarlo, arrástralo para moverlo, doble clic para renombrarlo. Contorno rojo = falta ese archivo.
+1188|Arrastra para reordenar · Doble clic para editar · Supr quita · Ctrl+D duplica
+1189|Editar
+1190|Reproducir elemento
+1191|Arreglar faltantes…
+1192|Reproducir secuencia
+1193|Editar elemento
+1194|Guardar secuencia
+1195|Nombre del preset:
+1196|Importar secuencia
+1197|Secuencia (*.json *.txt);;Todos los archivos (*)
+1198|Exportar secuencia
+1199|Preset de Voxa GEN (*.json);;Texto plano (*.txt)
+1200|Renderizando la secuencia…
+1201|Samples disponibles — haz clic para añadir
+1203| · se encontraron todos los samples
+1204|Secuencia importada.
+1205|La secuencia está vacía.
+1206|Secuencia exportada.
+1207|Secuencia
+1208|Duplicar este preset
+1209|Vaciar la secuencia
+1210|Samples originales
+1211|Procesado (modo actual)
+1212|Mi secuencia
+1213|\nomitido (explícito)
+1214|El archivo no contiene elementos.
+1215|Reproducir / pausar
+1216|Detener
+1217|Repetir
+1218|Volumen de la vista previa (no afecta a las exportaciones)
+1219|Nota anterior
+1220|Volver a empezar desde el principio
+1221|Nota siguiente
+1222|Sin audio
+1223|Sin espectro

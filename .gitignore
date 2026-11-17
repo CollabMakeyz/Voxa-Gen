@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
+dist/
+*.spec.bak
+.remember/
+tests/_out/
+tools/i18n/_extracted.txt

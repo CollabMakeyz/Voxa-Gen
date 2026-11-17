@@ -1,0 +1,302 @@
+0000|Nenhum trecho cantado detectado; o sample ficou na altura original.
+0001|Time-stretch ativo: a mistura com o sinal original (V/UV, transientes) foi desligada.
+0002|O stretch não é aplicado ao áudio original (sem processamento).
+0003|A cadeia Legacy é mono; a saída foi duplicada para estéreo.
+0004|Terror
+0005|FNF Normal
+0006|Robô
+0007|Retrô
+0008|Monstro
+0009|Glitch
+0010|Engraçado / Meme
+0011|Experimental
+0012|Voz de Demônio
+0013|Camada grave de monstro, timbre mais escuro e um pouco de sujeira.
+0014|Fantasma Sussurrante
+0015|Soproso, largo e instável, como uma voz vinda de outro cômodo.
+0016|Polimento Limpo
+0017|Tira o ronco, adiciona presença e um calor leve. Seguro em qualquer sample.
+0018|Estúdio Quente
+0019|Mais encorpado e redondo, com o vibrato natural de um cantor.
+0020|Robô Clássico
+0021|Robô com modulação em anel travado na nota, afinado em toda a cromática.
+0022|Androide Metálico
+0023|Brilho inarmônico e um giro lento.
+0024|Console 8-bit
+0025|Voz crocante de console antigo.
+0026|Rádio Antigo
+0027|Banda estreita, válvula quente e chiado de vinil.
+0028|Gigante
+0029|Garganta enorme e uma camada uma oitava abaixo.
+0030|Goblin
+0031|Pequeno, agudo e sorrateiro, com uma quinta por cima.
+0032|Dados Corrompidos
+0033|Bits quebrados, espectro deslocado e volume picotado.
+0034|Gagueira
+0035|Liga/desliga rápido e picotado.
+0036|Coral de Esquilos
+0037|Vozinhas cantando em oitavas.
+0038|Debaixo d'Água
+0039|Borbulhante, abafado e ondulante.
+0040|Transmissão Alienígena
+0041|Portadora inarmônica e entalhes girando.
+0042|Deriva de Sonho
+0043|Flutuando devagar, largo e suave.
+0044|Mistura entre a entrada intocada (0 %) e o efeito (100 %). Valores menores mantêm mais da voz original.
+0045|Senoide
+0046|Triângulo
+0047|Quadrada
+0048|Distorção
+0049|Clipping duro e sujo para vozes agressivas ou quebradas.
+0050|A Distorção empurra a voz para um clipper. Surgem harmônicos novos, e as partes altas sujam mais que as baixas: raiva, voz quebrada, alto-falante estourado. É aqui que moram vilões e gritos. Drive é a força do empurrão, Tipo é o jeito de cortar, Tom tira a aspereza dos agudos. Comece com 12-18 dB de drive e 30-50 % de mix.
+0051|Saturação
+0052|Calor suave de fita ou válvula; mais encorpado sem soar quebrado.
+0053|A Saturação arredonda os picos e acrescenta alguns harmônicos graves. Mais cheia, mais quente, ainda limpa. É isso que a separa da Distorção. O nível acompanha o da entrada, então ela não fica só mais alta. Boa para um sample fino ou um ar de disco antigo. Caráter escolhe fita (agudos suaves) ou válvula (harmônicos pares); Calor acrescenta assimetria. Com 6-10 dB de drive fica sutil.
+0054|Deslocamento de Formantes
+0055|Muda o timbre da voz (tamanho da garganta) sem mudar a nota.
+0056|O Deslocamento de Formantes mexe nas ressonâncias do trato vocal e deixa a nota quieta. Valores positivos soam menores e mais jovens (desenho animado, esquilo); negativos, maiores e mais graves (gigante, monstro). A cromática continua afinada. Ele faz uma análise da voz, por isso é mais lento que os outros efeitos. ±2-4 semitons ainda soa natural.
+0057|Tremolo
+0058|Pulsa o VOLUME para cima e para baixo em velocidade constante.
+0059|O Tremolo sobe e desce o volume; a nota fica onde está. A voz pulsa, gagueja ou balança. Trêmula, nervosa, retrô, ou onda quadrada para um glitch picotado. Velocidade é quantos pulsos por segundo, Profundidade é o tamanho das quedas, Forma é a curva de cada pulso. 5-7 Hz com 50 % de profundidade é o balanço clássico.
+0060|Vibrato
+0061|Faz a ALTURA oscilar em volta da nota em velocidade constante.
+0062|O Vibrato sobe e desce a altura num ritmo constante, como um cantor faz. A média fica na nota. Notas longas expressivas, desenho antigo, ou enjoo com profundidade alta. Velocidade é quantas oscilações por segundo, Profundidade é quanto a altura se move em cents (100 cents = 1 semitom), Entrada é quanto ele demora para aparecer. 5-6 Hz e 20-40 cents soa natural.
+0063|Variação de Pitch
+0064|Deriva lenta e aleatória da altura em volta da nota (instável, viva).
+0065|A Variação de Pitch deixa a altura passear em volta da nota, ao acaso mas sem trancos, com a média ainda afinada. Não tem o ritmo fixo do Vibrato, por isso sai instável, bêbada, fantasmagórica, ou só mais humana. O acaso é fixo por nota: preview e exportação batem. Profundidade é o maior desvio em cents, Velocidade é quantas vezes ela muda de rumo. Abaixo de 20 cents fica sutil.
+0066|BitCrusher
+0067|Sujeira digital lo-fi: menos bits e uma taxa de amostragem menor.
+0068|O BitCrusher baixa a resolução em bits e a taxa de amostragem da voz. Menos bits trazem chiado e degraus ásperos; uma taxa menor traz aliasing metálico. 8 bits, console antigo, rádio quebrado. 8 bits a uns 11 kHz é o console clássico; 4 bits é destruição.
+0069|Pitch Duplo
+0070|Adiciona por cima uma cópia transposta da voz (oitava, quinta…).
+0071|O Pitch Duplo acrescenta uma segunda voz a um intervalo musical de distância, como cantar em oitavas ou em harmonia. O original fica como está; a cópia entra no nível que você escolher. -12 dá uma camada de monstro, +12 uma de desenho, +7 um ar de power chord. Desafinação faz as duas vozes baterem uma contra a outra. Formantes decide se a cópia mantém o timbre original ou acompanha a altura. Usa análise de voz, então é mais lento.
+0072|Deslocador de Frequência
+0073|Move todas as frequências pelo mesmo número de Hz (metálico, inarmônico).
+0074|O Deslocador de Frequência soma o mesmo número de hertz a cada parte do som. Um pitch shift mantém os harmônicos em proporção; este quebra a proporção. A voz fica metálica, alienígena ou de sino, e um pouco desafinada. 5-30 Hz dá um brilho de phasing; de 100 Hz para cima soa robótico. Positivo sobe, negativo desce.
+0075|Chorus
+0076|Várias cópias levemente desafinadas e atrasadas: uma voz mais larga, de conjunto.
+0077|O Chorus mistura cópias da voz com atrasos curtos que se movem devagar. Pequenas diferenças de altura e tempo fazem parecer vários cantores, mais largo e mais macio. Sonhador, coral, ou fantasma. Vozes é quantas cópias, Velocidade e Profundidade é quanto elas se mexem, Atraso é quanto ficam para trás, Abertura é quanto se espalham no stereo.
+0078|Phaser
+0079|Entalhes que varrem o espectro e fazem a voz girar como um jato.
+0080|O Phaser mistura a voz com uma cópia defasada, o que abre vales móveis no espectro. Ele faz 'vush' e rodopia: debaixo d'água, espacial, psicodélico. Velocidade é a rapidez da varredura, Profundidade até onde ela vai, Centro onde ficam os vales, Estágios quantos são, Feedback o quanto eles ressoam.
+0081|Modulador em Anel
+0082|Multiplica a voz por um tom: vozes robóticas, de sino, de Dalek.
+0083|O Modulador em Anel multiplica a voz por um segundo tom, o portador. O ritmo das palavras sobrevive, mas a altura vira tons metálicos de soma e diferença. É a velha voz de robô. Com o portador seguindo a nota, o robô soa igual na cromática inteira; um portador fixo dá a cada nota uma cor diferente. Com 30-60 % de mix dá para entender as palavras.
+0084|Ruído
+0085|Adiciona chiado, ronco ou estalos de vinil por baixo da voz.
+0086|O Ruído põe uma camada de ruído por baixo da voz. O nível é relativo à voz: samples baixos e altos recebem a mesma quantidade. Seguir faz o ruído subir e descer com a voz, e os vãos entre as notas ficam limpos. Rádio, fita velha, sussurro, terror ofegante. Tipos: branco (chiado brilhante), rosa (chiado suave), marrom (ronco), estalos (vinil).
+0087|Molda o tom: tira o ronco, adiciona presença, deixa mais escuro ou mais brilhante.
+0088|O EQ reforça ou corta faixas de frequência. O corte de graves limpa ronco e ruído de microfone. A prateleira de graves põe ou tira corpo, a banda média cuida da presença e do tom anasalado, a prateleira de agudos põe ar ou escurece, e o corte de agudos tira chiado ou imita telefone e rádio. Mexer 2-4 dB costuma bastar. Tudo em 0 dB com os cortes nos extremos não muda nada.
+0089|Drive
+0090|Tipo
+0091|Tom
+0093|Saída
+0094|Caráter
+0095|Calor
+0096|Deslocamento
+0097|Taxa
+0098|Profundidade
+0099|Forma
+0100|Fase estéreo
+0101|Início
+0102|Velocidade
+0103|Bits
+0104|Taxa de amostragem
+0105|Intervalo
+0106|Desafinação
+0107|Nível
+0108|Formantes
+0109|Atraso
+0110|Vozes
+0111|Abertura
+0112|Centro
+0113|Estágios
+0114|Realimentação
+0115|Portadora
+0116|Razão
+0117|Frequência
+0118|Forma de onda
+0119|Seguir a voz
+0120|Corte de graves
+0121|Freq. do shelf grave
+0122|Shelf grave
+0123|Freq. dos médios
+0124|Médios
+0125|Largura dos médios (Q)
+0126|Freq. do shelf agudo
+0127|Shelf agudo
+0128|Corte de agudos
+0129|O quão forte a voz bate no clipper. Mais drive = mais sujeira e sustentação.
+0130|Suave arredonda os picos, Duro corta reto, Wavefold dobra de volta (metálico), Fuzz é assimétrico e zumbido.
+0131|Passa-baixa depois do clipper. Valores menores tiram o chiado e deixam o som mais escuro.
+0132|Nível depois do efeito, para manter o volume sob controle.
+0133|O quanto a voz é empurrada para a curva suave.
+0134|Fita é suave e um pouco mais escura; Válvula adiciona harmônicos pares para um som mais rico.
+0135|Assimetria e escurecimento. Maior = mais quente e redondo.
+0136|Deslocamento das ressonâncias em semitons. + = voz menor/mais brilhante, - = voz maior/mais escura. 0 = sem mudança.
+0137|Pulsos por segundo.
+0138|O quanto o volume cai. 100 % = até o silêncio.
+0139|Senoide é suave, Triângulo é linear, Quadrada liga/desliga.
+0140|Desloca o canal direito em exportações stereo. Aí o pulso anda da esquerda para a direita. Sem efeito em mono.
+0141|Oscilações por segundo.
+0142|Desvio máximo da altura em cents (100 = um semitom).
+0143|Tempo de entrada. O ataque da nota fica firme.
+0144|Senoide é suave; Triângulo varre em velocidade constante.
+0145|Maior desvio da nota, em cents.
+0146|Quantas vezes por segundo a deriva muda de direção.
+0147|Resolução. 16 = limpo, 8 = retrô, 1-4 = destruído.
+0148|Taxa em que a voz é retida. Menor = mais aliasing metálico.
+0149|Transposição da cópia em semitons (12 = uma oitava).
+0150|Pequeno desvio que faz a camada bater e soar mais encorpada.
+0151|Volume da cópia em relação ao original.
+0152|Manter = camada natural; Seguir = timbre de esquilo/gigante na cópia.
+0153|Começa a cópia um pouco depois, para um efeito de dobra.
+0154|Hertz somados a cada componente do som.
+0155|Número de cópias.
+0156|O quão rápido as cópias derivam.
+0157|O quanto as cópias derivam (mais = mais desafinação).
+0158|Atraso base das cópias.
+0159|Largura estéreo das cópias (só em exportações estéreo).
+0160|Varreduras por segundo.
+0161|Alcance da varredura (até ±2 oitavas).
+0162|Meio da varredura.
+0163|Mais estágios = mais entalhes e um efeito mais forte.
+0164|Ressonância dos entalhes.
+0165|Segue a nota: portadora = nota × razão. Fixa: a mesma frequência para todas as notas.
+0166|Frequência da portadora como múltiplo da nota (quando segue a nota).
+0167|Frequência da portadora (quando fixa).
+0168|Senoide é suave; Quadrada e Triângulo adicionam zumbido.
+0169|Cor do ruído.
+0170|Nível do ruído em relação à voz. -24 dB é bem audível, mas fica atrás dela.
+0171|100 % = ruído só enquanto a voz soa; 0 % = constante.
+0172|Remove tudo abaixo. 20 Hz = desligado.
+0173|Onde o shelf grave começa.
+0174|Corpo e peso da voz.
+0175|Centro da banda média.
+0176|Presença (2-4 kHz) ou tom nasal (800 Hz-1,5 kHz).
+0177|Q maior = banda mais estreita.
+0178|Onde o shelf agudo começa.
+0179|Ar e brilho.
+0180|Remove tudo acima. 20000 Hz = desligado.
+0181|Suave (quente)
+0182|Duro (áspero)
+0183|Wavefold (metálico)
+0184|Fuzz (zumbido)
+0185|Fita
+0186|Válvula
+0187|Manter o timbre da voz
+0188|Seguir a altura
+0189|Segue a nota
+0190|Frequência fixa
+0191|Chiado branco
+0192|Chiado rosa
+0193|Ronco marrom
+0194|Estalos de vinil
+0195| + efeitos
+0196|Tarefa
+0197|Preparando
+0198|Concluído
+0199|Cancelado
+0200|Samples ausentes ou ilegíveis:
+0201|O destino já tem arquivos
+0203|Nada para exportar: ative a cromática completa e/ou as notas individuais.
+0204|Documentos
+0205|Exportação Voxa GEN
+0206|O modelo de nome das notas gera nomes de arquivo repetidos; inclua {index}.
+0207|validando arquivos
+0208|A validação falhou:\n
+0209|Sample curto demais para analisar a altura
+0210|Nenhum trecho cantado estável detectado
+0211|Sequências
+0212|Modo Natural
+0213|Modo Robot
+0214|Modo Legacy
+0215|Perfis do LAB
+0216|Configurações de exportação
+0217|Configurações completas
+0218|Cadeias de efeitos
+0219|Não é um arquivo de preset.
+0220|Não é um preset do Voxa GEN (falta a marca de formato).
+0221|Ordem vocal clássica do BF (45 elementos, exata).
+0222|Vogais A E I O U
+0223|Ciclo simples de vogais.
+0224|Natural · Limpo
+0225|Altura exata, preservação total dos formantes.
+0226|Natural · Expressivo
+0227|Mantém a microvariação natural (média zero, limitada) e mais detalhe no ataque.
+0228|Natural · Suave
+0229|Suavização e redução de artefatos mais fortes.
+0230|Natural · Ultra
+0231|Quadros de análise de 1 ms. O mais lento e detalhado.
+0232|Robot · Padrão
+0233|Perfil rápido.
+0234|Robot · Mais rápido
+0235|Menor custo.
+0236|Legacy · Clássico
+0237|Cadeia clássica.
+0238|Lab · Padrão
+0239|Ponto de partida para experimentos.
+0240|FL Studio · 16-bit 48 kHz
+0241|Marcadores do Slicex, mono 16-bit.
+0242|Estúdio · 24-bit estéreo
+0243|24-bit estéreo, normalizado em -1 dBFS.
+0244|O nome do preset não pode ficar vazio.
+0245|Um preset de sequência precisa de pelo menos um elemento.
+0246|Presets nativos não podem ser renomeados; duplique-os.
+0247|Presets nativos não podem ser apagados; use Restaurar para desfazer mudanças.
+0248|Um preset de efeitos precisa de pelo menos um efeito.
+0249|Este não é um arquivo de projeto do Voxa GEN.
+0250|Taxas de amostragem misturadas: {rates}.
+0251|Tudo bem: tudo é convertido para a taxa de exportação com reamostragem de alta qualidade.
+0252|Há arquivos mono e estéreo misturados.
+0253|Tudo bem: eles são convertidos para os canais da exportação.
+0254|O arquivo está faltando: {path}
+0255|Localize o arquivo de novo ou tire o sample da lista.
+0256|O arquivo não pode ser lido: {error}
+0257|Exporte de novo como WAV no seu editor de áudio.
+0258|O sample está em silêncio (nada acima de {db} dB).
+0259|Confira a gravação; um sample em silêncio gera notas em silêncio.
+0260|Clipping: {count} amostras chegaram ao máximo.
+0261|Grave ou exporte um pouco mais baixo. O clipping vira distorção áspera depois da afinação.
+0262|Muito silêncio: {lead} ms antes e {tail} ms depois da voz ({pct} % do arquivo).
+0263|Ligue 'Cortar silêncio' em Exportação, ou corte o arquivo. As notas vão começar na hora.
+0264|Sample muito curto ({ms} ms).
+0265|É difícil detectar a altura em sons muito curtos; use uma tomada mais longa se puder.
+0266|Offset DC de {pct} %.
+0267|Geralmente inofensivo; o corte de graves do EQ remove.
+0268|Mesmo áudio que '{other}'.
+0269|Tire um deles se a duplicata não foi de propósito.
+0270|Ligue Normalizar por nota em Exportação, ou nivele os arquivos. Todas as notas vão sair no mesmo volume.
+0271|A duração de {sec} s é bem diferente das outras (típica: {typ} s).
+0272|Use "Mesmo tamanho para todas as notas" em Exportação, ou corte o arquivo.
+0273|{diff} dB mais alto que os outros samples.
+0274|{diff} dB mais baixo que os outros samples.
+0275|Arquivo não encontrado
+0276|O arquivo não tem áudio
+0277|32-bit inteiro
+0278|32-bit float
+0279|64-bit float
+0280|Sequência Clássica do BF
+0281|Samples faltando:
+0282|Todos os elementos da sequência foram pulados; nada para tocar.
+0283|Nenhum sample utilizável carregado.
+0284|Voxa Escuro
+0286|Clique (apertar)
+0287|Clique (soltar)
+0288|Seleção
+0289|Uso do teclado
+0290|Confirmação
+0291|Página / painel aberto
+0292|Painel fechado
+0293|Sequência: adicionar elemento
+0294|Sequência: remover elemento
+0295|Desfazer
+0296|Começo do arraste
+0297|Arrastar / redimensionar
+0298|Soltar / encaixar
+0299|Exportação iniciada
+0300|Exportação concluída
+0301|Erro
+0302|Operação cancelada
+0303|Retorno do preview
+0304|Voxa Claro

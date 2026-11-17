@@ -1,0 +1,387 @@
+0305|Gerar
+0306|Exportação em andamento
+0307|Uma exportação está rodando. Cancelar e sair?
+0308|Sair
+0309|Aparência
+0310|Cores, fonte e tamanhos do app inteiro
+0311|Cor primária
+0312|Botões principais (como Exportar), sliders, barras de progresso e a forma de onda original (A).
+0313|Cor secundária
+0314|O som processado (B) nos previews e selos secundários.
+0315|Cor de destaque
+0316|Contorno da aba, opção, campo ou item de menu selecionado, e o foco do teclado.
+0317|Fundo
+0318|Atrás de tudo: a barra lateral, a área pontilhada e os campos de texto.
+0319|Painéis
+0320|O painel grande e arredondado de cada página, e as abas de pasta.
+0321|Cartões
+0322|Os cartões arredondados dentro do painel e os botões da barra lateral.
+0323|Botões
+0324|Botões e controles normais. Os tons de hover e de borda vêm dela.
+0325|Texto
+0326|Todo o texto. Os tons mais claros e apagados vêm dela.
+0327|Cor do logo
+0328|Recolore o logo do Voxa GEN. Deixe vazio para as cores originais.
+0329|Temas
+0330|Cores
+0331|Texto e layout
+0332|Personalizado
+0333|Escolha um tema para começar. As mudanças valem para o app inteiro na hora. Salve para guardar como tema seu.
+0334|Usar tema
+0336|Salvar atual como…
+0337|Guardar as cores, fonte e tamanhos atuais como um tema seu
+0338|Apagar
+0339|Base
+0340|Padrões claros ou escuros para toda cor que você não mudou. Trocar volta as cores para essa base; fonte e tamanhos ficam.
+0341|Clique numa amostra para escolher a cor, ou digite um código hex como #FFA600. Apague o campo para voltar à cor do tema. Os tons de hover, borda e texto apagado acompanham.
+0342|Legibilidade
+0343|O Voxa GEN confere se o texto continua legível em todas as superfícies. Quando uma combinação fica fraca demais, ele acerta a cor do texto para você.
+0344|Verificação de legibilidade
+0345|Contraste das cores escolhidas (WCAG). Texto precisa de pelo menos 4,5:1; contornos e texto secundário, 3:1.
+0346|A fonte e o tamanho de todo texto do app. As abas de pasta mantêm a fonte pixelada.
+0347|Voltar para a fonte padrão (Inter)
+0348|Fonte
+0349|Qualquer fonte instalada neste computador. Inter é a padrão; fontes simples sem serifa são as mais fáceis de ler.
+0351|Tamanho do texto
+0352|Deixa todo texto maior ou menor (85-135 %). Os layouts se adaptam; texto muito grande pode pedir uma janela maior.
+0353|Padrão: 100 %.
+0354|Formas e espaçamento
+0355|O quão redondos são os cantos, quanto espaço os controles têm e o estilo dos painéis e ícones.
+0356|Arredondamento
+0357|0 % deixa os cantos quadrados, 100 % é o design, 150 % é extra redondo.
+0358|Densidade
+0359|O espaço dentro de botões, campos e cartões. Compacto cabe mais em telas pequenas.
+0360|Cartões sólidos são blocos preenchidos; cartões com contorno também ganham uma borda fina, que ajuda em temas muito escuros ou muito claros.
+0361|Ícones
+0362|Desenhado à mão usa a arte do design na barra lateral; os estilos de linha usam ícones simples em todo lugar.
+0363|Redefinir texto e layout
+0364|Salvar tema
+0365|Nome do tema:
+0366|Temas nativos não podem ser substituídos; escolha outro nome.
+0367|Tema “{name}” salvo.
+0368|Apagar tema
+0369|Apagar o seu tema “{name}”?
+0370|Redefinir
+0371|Escolha uma cor
+0372|{n} combinações estavam fracas demais e foram ajustadas automaticamente.
+0373|Escuro
+0374|Claro
+0375|nativo
+0376|seu
+0377|Meu tema
+0378|padrão do tema
+0379|“{text}” não é uma cor. Use um código hex como #FFA600.
+0380|Todo o texto e os contornos estão fáceis de ler.
+0381|Compacto
+0382|Confortável
+0383|Espaçoso
+0384|Sólido
+0385|Com contorno
+0386|Desenhado à mão
+0387|Linhas finas
+0388|Linhas grossas
+0389|Substituir tema
+0390|Substituir o seu tema “{name}”?
+0391|{what}: {ratio}:1 (precisa de {need}:1)
+0392|O Natural mede a voz uma vez e depois reconstrói cada nota na altura exata. A voz mantém o caráter (formantes), as respirações e as consoantes. Os samples mantêm a duração.
+0393|O Robot usa a mesma ideia com medições mais rápidas e grosseiras. Use para rascunhos rápidos ou cromáticas muito longas.
+0394|O Legacy mantém o processamento clássico exatamente como era, para projetos feitos com ferramentas antigas.
+0395|O perfil do Lab roda o Natural com as ferramentas que você configurou na página LAB.
+0396|PCM 16-bit
+0397|PCM 24-bit
+0398|Completar + cortar
+0399|Só completar (nunca corta)
+0400|Time-stretch
+0401|Gerador
+0402|Transforme samples de voz numa escala cromática completa
+0403|Básico
+0404|Samples
+0405|Ordem
+0406|Exportação
+0407|Preview
+0408|Lote
+0409|Temperamento personalizado
+0410|Gerenciar presets
+0411|Todos os presets: sequências, modos, perfis do LAB, cadeias de efeitos, configurações de exportação
+0412|Origem
+0413|Escolha a pasta com seus samples de voz (WAV). Nomes como 1.wav, a.wav ou e2.wav são reconhecidos sozinhos. Seus arquivos originais nunca são alterados.
+0414|Nenhuma pasta escolhida ainda
+0415|Procurar..
+0416|Escolha a pasta que tem os seus samples
+0417|Reescanear a pasta (encontra arquivos novos, alterados ou apagados)
+0418|…ou solte arquivos WAV / pastas aqui
+0419|Ver todos os samples
+0420|Abre a aba Samples: formatos, altura detectada, previews e a verificação de samples
+0421|Configurações musicais
+0422|Quais notas a cromática cobre. Os padrões funcionam para a maioria das vozes.
+0423|Primeira nota
+0424|A nota mais grave da cromática. C4 é o Dó central do piano.
+0425|Dica: C2 ou C3 serve para a maioria das cromáticas de FNF.
+0426|Quantas notas
+0427|Quantas notas gerar, com um semitom entre elas. 12 notas = uma oitava.
+0428|Afinação (A4)
+0429|A altura usada como referência para afinar cada nota. Quase toda música usa 440 Hz.
+0430|Deixe em 440 Hz, a não ser que sua música esteja afinada de outro jeito.
+0431|Afinação avançada
+0432|Temperamento e correção de altura liga/desliga. Só mude se souber que precisa.
+0433|Editar desvios
+0434|Temperamento
+0435|Como as 12 notas são espaçadas. "Igual" é o que pianos e DAWs usam. Os outros soam mais puros num tom e piores nos outros.
+0436|Recomendado: Igual.
+0437|Tom (raiz)
+0438|O tom em que a Entonação justa e a Pitagórica são construídas. "Editar desvios" define a sua própria afinação por nota.
+0439|Afinar cada nota na sua altura
+0440|Ligado: cada nota vai para a altura exata (normal). Desligado: os samples mantêm a própria altura e só são colocados em ordem.
+0441|Correção de altura
+0442|“Todos os samples” lista cada sample com formato e nota detectada, deixa você tirar samples e ouvi-los. “Procurar problemas” busca o que faria a cromática soar errada, com uma solução para cada coisa.
+0443|Qual sample é usado em cada nota.
+0444|Manter esta ordem da próxima vez
+0445|Nova ordem
+0446|Embaralhar de novo com uma nova ordem aleatória
+0447|Ordem aleatória
+0448|Embaralhar e Aleatório usam um número (a seed) para decidir a ordem. O preview e a exportação sempre usam o mesmo. Marque "Manter esta ordem" para ter a mesma ordem depois de reiniciar o app.
+0449|Sequência vocal
+0450|Digite ou clique nos nomes dos samples para montar a ordem das notas. A lista se repete até toda nota ter um sample.
+0451|Escolha “Sequência vocal” em Ordem para montar a sua sequência.
+0452|Ouvir a sequência
+0453|Toca a sequência uma vez, em ordem, sem exportar: com os samples originais ou processados no modo de exportação atual.
+0454|Modo de exportação
+0455|Como os samples são afinados. O Natural é o melhor para quase todo mundo.
+0456|Usar preset
+0457|Presets do Natural
+0458|Configurações prontas do Natural: Limpo (padrão), Expressivo (mantém o vibrato), Suave (mais macio) e Ultra (mais detalhe, mais lento).
+0459|Configurações avançadas do Natural
+0460|O Natural escolhe bons valores sozinho. Abra para ajustar cada ferramenta; toda configuração tem um “?” que explica.
+0461|Restaurar padrões
+0462|Configurações avançadas do Robot
+0463|Velocidade contra detalhe. Os padrões já são rápidos.
+0464|Passo de análise
+0465|Com que frequência a voz é medida. Maior = mais rápido, mas menos detalhado.
+0466|Padrão: 10 ms.
+0467|Reamostragem
+0468|Qualidade da conversão para a taxa de amostragem da exportação.
+0469|Manter o volume original
+0470|Iguala o volume de cada nota processada ao sample original.
+0471|Compensação de ganho
+0472|Usar perfil
+0473|Abrir LAB
+0474|Efeitos
+0475|Efeitos criativos opcionais do LAB (distorção, vibrato, chorus…). Eles só entram quando você os liga aqui.
+0476|Adicionar os efeitos do LAB a esta exportação
+0477|Efeitos na exportação
+0478|Roda a cadeia de efeitos do LAB em cada nota depois do modo de exportação (Natural, Robot, Legacy ou Lab): no preview da cromática, na exportação e nas tarefas em lote. Desligado, os efeitos não encostam na exportação. Seus arquivos de sample nunca mudam.
+0479|Padrão: desligado.
+0480|Editar efeitos no LAB
+0481|Formato do arquivo
+0482|Que tipo de WAV é gravado. Os padrões funcionam no FL Studio e na maioria dos programas.
+0483|Quantas amostras por segundo. 48000 Hz é o padrão; você também pode digitar o seu valor.
+0484|Recomendado: 48000 Hz.
+0485|Profundidade de bits
+0486|16-bit é menor e funciona em todo lugar. 24-bit e 32-bit float guardam mais detalhe para mixagem.
+0487|Recomendado: 16-bit para FNF, 24-bit para trabalho de estúdio.
+0488|Canais
+0489|Mono é um canal (normal para vozes). Estéreo mantém a imagem esquerda/direita de samples estéreo.
+0490|Formato avançado
+0491|Dither para arquivos 16-bit.
+0492|Dither ao salvar em 16-bit
+0493|Adiciona um ruído minúsculo e inaudível para as partes baixas não ficarem granuladas em 16-bit. Deixe ligado.
+0494|Dither
+0495|Notas e volume
+0496|Quanto dura cada nota, o silêncio entre as notas e o quão alto é o arquivo.
+0497|Silêncio entre as notas
+0498|O intervalo entre as notas no arquivo da cromática completa.
+0499|Padrão: 300 ms.
+0500|Mesmo tamanho para todas as notas
+0501|Duração da nota
+0502|Desligado: cada nota mantém o tamanho do seu sample. Ligado: toda nota ganha esta duração.
+0503|Se um sample for mais longo
+0504|Completar + cortar: notas mais curtas ganham silêncio, as mais longas são cortadas. Só completar: nunca corta nada. Time-stretch: deixa a nota mais longa ou mais curta sem mudar a altura.
+0505|Fades
+0506|Um fade curto no começo e no fim de cada nota tira os cliques.
+0507|Tente 2 ms de entrada e 15 ms de saída.
+0508|Deixar o mais alto possível
+0509|Normalizar
+0510|Aumenta o volume até o ponto mais alto chegar a este nível (0 dBFS = máximo).
+0511|Alvo recomendado: -1 dBFS.
+0512|Volume avançado
+0513|Normalização por nota, volume master, clipping e corte de silêncio.
+0514|Cromática inteira
+0515|Cada nota
+0516|Normalizar sobre
+0517|Cromática inteira mantém o volume relativo das notas. Cada nota deixa todas as notas igualmente altas.
+0518|Volume master
+0519|Aumenta ou diminui a exportação inteira.
+0520|Nunca distorcer (evitar clipping)
+0521|Se a exportação ficasse alta demais e distorcesse, ela é abaixada só o suficiente. Você é avisado quando isso acontece.
+0522|Evitar clipping
+0523|Cortar o silêncio dos samples
+0524|Silêncio
+0525|Remove o silêncio no começo e no fim de cada sample antes do processamento. Sons mais baixos que este nível contam como silêncio.
+0526|Para onde vão os arquivos e como se chamam.
+0527|Cromática completa (um WAV)
+0528|Um WAV com todas as notas em sequência.
+0529|Cromática completa
+0530|Adicionar marcadores de corte
+0531|Marca onde cada nota começa, para o Slicex do FL Studio cortar o arquivo em notas sozinho.
+0532|Marcadores de corte
+0533|Um WAV por nota
+0534|Também salva cada nota como arquivo próprio numa subpasta.
+0535|Notas individuais
+0536|Pasta padrão (Configurações)
+0537|Salvar em
+0538|A pasta onde a pasta da exportação é criada.
+0539|Nome da pasta
+0540|Nome da nova pasta desta exportação. Arquivos existentes nunca são substituídos sem perguntar.
+0541|Nomes de arquivo avançados
+0542|Mude como os arquivos WAV são nomeados.
+0543|Arquivo da cromática
+0544|Nome do arquivo da cromática completa.
+0545|Arquivos das notas
+0546|Subpasta e padrão de nome das notas individuais. Você pode usar {index} {note} {pitch} {octave} {midi} {sample} {hz}.
+0547|Exemplo: note_{index:03d} → note_001.wav
+0548|Preview da cromática
+0549|Ouça a cromática inteira antes de exportar, com o mesmíssimo processamento da exportação. Clique numa tecla para ouvir uma nota.
+0550|Preview do sample
+0551|Ouça um sample antes e depois do processamento. O A/B alterna entre o som original e o processado no mesmo ponto.
+0552|Exportar cromática
+0553|Cancelar
+0555|Abrir pasta
+0556|Pronto para exportar
+0557|{n} sample(s) adicionado(s)
+0558|Exportação concluída
+0559|A exportação falhou
+0560|Exportação cancelada
+0561|Nenhum arquivo foi gravado.
+0562|Desvio de cada classe de nota em relação ao temperamento igual, em cents.
+0564|seed
+0565|Baixa (rápida)
+0566|Média
+0567|Alta
+0568|Muito alta
+0569|O Legacy não tem configurações de propósito. Ele funciona sempre igual, e os projetos antigos continuam soando como antes: mono, 48 kHz, afinação PSOLA clássica.
+0571|(configurações do LAB não salvas)
+0572|Escolha a pasta de samples
+0573|Adicionar arquivos WAV
+0574|Áudio WAV (*.wav)
+0575|Recarregado · {c} alterado(s) · {a} novo(s) · {m} faltando
+0576|Configurações do Natural: {name}
+0577|O perfil do LAB “{name}” está ativo no modo Lab.
+0578|Destino da exportação
+0579|A fila em lote está rodando. Espere ela terminar ou cancele primeiro.
+0580|Exportando · {mode}
+0581|Cancelando…
+0582|{n} notas · {mode} · validação {ok}/{total} aprovada
+0583|oitava
+0584|Todos os samples
+0585|Procurar problemas
+0586|Em ordem
+0587|1, 2, 3… pelo nome, depois recomeça.
+0588|Embaralhar
+0589|Misturado, mas cada sample é usado uma vez antes de qualquer repetição.
+0590|Aleatório
+0591|Um sample aleatório para cada nota. Pode repetir.
+0592|Sua própria lista de nomes de samples, como a Sequência Clássica do BF.
+0593|Natural  ★
+0594|Melhor qualidade. Mantém a voz natural em qualquer altura.
+0595|Mais rápido e mais leve. Continua afinado na nota exata (não é efeito de robô).
+0596|Legacy
+0597|A cadeia clássica, mantida igual para projetos antigos.
+0598|Perfil do Lab
+0599|Suas próprias configurações, feitas na página LAB.
+0600|Preset
+0601|Perfil
+0602|Nenhum efeito ainda. Monte uma cadeia em LAB › Efeitos.
+0604|Estéreo
+0605|entrada
+0606|saída
+0607|A correção de altura está desligada (Básico → Afinação avançada): as notas mantêm a própria altura.
+0608|Ativo: {name} · formantes {f} · humanização {h} · suavização {s} · redução de artefatos {a}
+0609|{n} arquivo(s) não WAV ignorado(s)
+0610|conflito de nome: {names} (já carregado de outra pasta)
+0611|{u} de {n} samples em uso
+0612|Nenhum sample carregado
+0613|{n} faltando
+0614|{n} ilegível(is)
+0615|{n} duplicado(s)
+0616|Ordem: {list}
+0617|{stage} · nota {n}/{total}
+0618|{n} aviso(s)
+0619|{folder} · {n} notas · validação: {ok}/{total} verificações aprovadas
+0620|efeitos
+0621|Salvo em {folder}
+0622|Igual (normal)
+0623|Entonação justa
+0624|Pitagórico
+0625|Desvios personalizados
+0626|Desligado. Cadeia pronta: {chain}
+0627|Ligado: {chain}
+0628|Não foi possível ler a pasta: {error}
+0629|Exportação cancelada: os samples faltando não foram resolvidos.
+0630|Processando
+0631|Gravando arquivos
+0632|Validando
+0633|Cancelar exportação
+0634|Parar a exportação? Nada será gravado.
+0635|desligadas: {tools}
+0636|nenhum efeito ativo
+0637|Experimente ferramentas de processamento e efeitos num único sample, depois reaproveite
+0638|Origem e ferramentas
+0639|Comparar
+0640|Perfis
+0641|Original
+0642|Processado
+0643|Desfazer a última mudança nas ferramentas ou efeitos (Ctrl+Z)
+0644|Refazer
+0645|Refazer (Ctrl+Y)
+0646|Escolha um sample e a nota para afiná-lo. Tudo o que você muda abaixo é aplicado a este sample, para você ouvir o efeito.
+0647|Usar a nota detectada
+0648|Alvo = a nota mais próxima da altura detectada do sample
+0649|Sample
+0650|O sample com que você está experimentando.
+0651|Nota alvo
+0652|A nota em que o sample é afinado. Tente uma nota longe da original para ouvir as ferramentas trabalharem mais.
+0653|Renderizar
+0654|Atualizar automaticamente
+0655|Renderiza o resultado de novo a cada mudança de configuração
+0656|Renderiza o sample de novo a cada mudança numa ferramenta. Você ouve sempre as configurações atuais. Em computador lento, desligue e aperte Renderizar você mesmo.
+0657|Ouvir e comparar
+0658|Usar no Gerador
+0659|Exportar com estas configurações: muda o Gerador para o modo Lab
+0660|Ferramentas
+0661|Cada ferramenta muda uma coisa no som. Desligue uma ferramenta para ignorá-la por completo. O “?” ao lado de cada uma explica.
+0662|A é o sample original, B o processado. Ao trocar, a posição e o volume continuam iguais. O que muda é só o som.
+0663|B · Processado
+0664|Ouvindo: B · Processado
+0665|Igualar volume
+0666|Toca A e B no mesmo volume, para você julgar o som e não o volume. Só nos previews. As exportações não mudam.
+0667|Resultado
+0668|Medido no som processado. Um erro de altura abaixo de 5 cents é inaudível.
+0669|Salve as configurações das ferramentas como um perfil para reutilizar. “Usar no Gerador” exporta com elas (modo Lab).
+0670|Carregar
+0671|Substituir as configurações atuais das ferramentas por este perfil
+0672|Salvar como novo
+0673|Mudar ferramenta do LAB
+0674|A · original
+0675|B · processado
+0676|Carregar perfil do LAB
+0677|O Gerador mudou para o modo Lab com as configurações atuais do LAB.
+0681|Carregue samples no Gerador (aba Básico ou Samples) para começar a experimentar.
+0682|Ir para Samples
+0683|A · Original
+0684|Configurações alteradas
+0685|Renderizando…
+0686|Atualizado
+0687|“{name}” salvo.
+0688|Salvar perfil do LAB
+0689|Nome do perfil:
+0690|Perfis nativos não podem ser apagados.
+0691|Apagar perfil
+0692|Apagar o perfil do LAB “{name}”?
+0693|O original de “{name}” foi restaurado.
+0694|Importar perfil do LAB
+0695|Preset do Voxa GEN (*.json)
+0696|“{name}” importado.
+0697|Perfil do LAB
+0698|Exportar perfil do LAB
+0699|Perfil exportado.
+0700|Espectro

@@ -1,0 +1,242 @@
+{
+"0050": {
+ "en": "Distortion drives the voice into a clipper. New harmonics pile up, and loud parts get dirtier than quiet ones: angry, broken, a blown-out speaker. Villains and screams live here. Drive is how hard it hits, Type the kind of clipping, Tone takes the edge off the top. Start at 12-18 dB of drive with 30-50 % mix.",
+ "pt_BR": "A Distorção empurra a voz para um clipper. Surgem harmônicos novos, e as partes altas sujam mais que as baixas: raiva, voz quebrada, alto-falante estourado. É aqui que moram vilões e gritos. Drive é a força do empurrão, Tipo é o jeito de cortar, Tom tira a aspereza dos agudos. Comece com 12-18 dB de drive e 30-50 % de mix.",
+ "es": "La Distorsión empuja la voz contra un clipper. Aparecen armónicos nuevos y las partes fuertes se ensucian más que las suaves: rabia, voz rota, altavoz reventado. Aquí viven los villanos y los gritos. Drive es la fuerza del golpe, Tipo la forma de recortar, Tono le quita el filo a los agudos. Empieza con 12-18 dB de drive y 30-50 % de mezcla.",
+ "ja": "ディストーションは声をクリッパーに押し込みます。新しい倍音が積み重なり、大きい部分ほど荒れます。怒り、壊れた声、飛んだスピーカー。悪役や叫び声の居場所です。ドライブは押し込む強さ、タイプはクリップの種類、トーンは高音のとげを取ります。まずはドライブ 12〜18 dB、ミックス 30〜50 % から。"
+},
+"0053": {
+ "en": "Saturation rounds off the peaks and adds a few low harmonics. Fuller, warmer, still clean. That's what sets it apart from Distortion. The level is matched to the input, so it won't just get louder. Good for a thin sample or an old-record feel. Character picks tape (smooth top) or tube (even harmonics); Warmth adds asymmetry. 6-10 dB of drive stays subtle.",
+ "pt_BR": "A Saturação arredonda os picos e acrescenta alguns harmônicos graves. Mais cheia, mais quente, ainda limpa. É isso que a separa da Distorção. O nível acompanha o da entrada, então ela não fica só mais alta. Boa para um sample fino ou um ar de disco antigo. Caráter escolhe fita (agudos suaves) ou válvula (harmônicos pares); Calor acrescenta assimetria. Com 6-10 dB de drive fica sutil.",
+ "es": "La Saturación redondea los picos y añade algunos armónicos graves. Más llena, más cálida, todavía limpia. Eso la separa de la Distorsión. El nivel sigue al de la entrada, así que no se limita a sonar más fuerte. Buena para un sample delgado o un aire de disco viejo. Carácter elige cinta (agudos suaves) o válvula (armónicos pares); Calidez añade asimetría. Con 6-10 dB de drive queda sutil.",
+ "ja": "サチュレーションはピークを丸め、低次の倍音を少し足します。太く、温かく、それでいてクリーン。そこがディストーションとの違いです。レベルは入力に合わせるので、ただ大きくなるだけにはなりません。細いサンプルや古いレコードの雰囲気に。キャラクターでテープ（なめらかな高音）か真空管（偶数倍音）を選び、ウォームスで非対称さを足します。ドライブ 6〜10 dB なら控えめです。"
+},
+"0056": {
+ "en": "Formant Shift moves the resonances of the vocal tract and leaves the note alone. Positive values sound smaller and younger (cartoon, chipmunk); negative ones bigger and deeper (giant, monster). The chromatic stays in tune. It runs a voice analysis, so it's slower than the other effects. ±2-4 semitones still sounds natural.",
+ "pt_BR": "O Deslocamento de Formantes mexe nas ressonâncias do trato vocal e deixa a nota quieta. Valores positivos soam menores e mais jovens (desenho animado, esquilo); negativos, maiores e mais graves (gigante, monstro). A cromática continua afinada. Ele faz uma análise da voz, por isso é mais lento que os outros efeitos. ±2-4 semitons ainda soa natural.",
+ "es": "El Cambio de formantes mueve las resonancias del tracto vocal y deja la nota en paz. Los valores positivos suenan más pequeños y jóvenes (dibujo animado, ardilla); los negativos, más grandes y graves (gigante, monstruo). La cromática sigue afinada. Hace un análisis de la voz, por eso es más lento que los otros efectos. ±2-4 semitonos todavía suena natural.",
+ "ja": "フォルマントシフトは声道の共鳴を動かし、音程には触れません。プラスは小さく若い声（アニメ、シマリス）、マイナスは大きく低い声（巨人、モンスター）。クロマチックの音程はそのまま。声を解析するので、他のエフェクトより時間がかかります。±2〜4 半音ならまだ自然です。"
+},
+"0059": {
+ "en": "Tremolo moves the volume up and down; the pitch stays put. The voice pulses, stutters or wobbles. Shaky, nervous, retro, or square waves for a chopped glitch. Rate is pulses per second, Depth how deep the dips go, Shape the curve of each pulse. 5-7 Hz at 50 % depth is the classic wobble.",
+ "pt_BR": "O Tremolo sobe e desce o volume; a nota fica onde está. A voz pulsa, gagueja ou balança. Trêmula, nervosa, retrô, ou onda quadrada para um glitch picotado. Velocidade é quantos pulsos por segundo, Profundidade é o tamanho das quedas, Forma é a curva de cada pulso. 5-7 Hz com 50 % de profundidade é o balanço clássico.",
+ "es": "El Trémolo sube y baja el volumen; la nota se queda donde está. La voz pulsa, tartamudea o se tambalea. Temblorosa, nerviosa, retro, u onda cuadrada para un glitch troceado. Velocidad son los pulsos por segundo, Profundidad lo hondas que son las caídas, Forma la curva de cada pulso. 5-7 Hz con 50 % de profundidad es el vaivén clásico.",
+ "ja": "トレモロは音量を上げ下げし、音程はそのままです。声が脈打ち、どもり、揺れます。震え、緊張、レトロ、あるいは矩形波で刻んだグリッチに。レートは毎秒の回数、デプスは落ち込みの深さ、シェイプは各パルスの形。5〜7 Hz、デプス 50 % が定番の揺れです。"
+},
+"0062": {
+ "en": "Vibrato raises and lowers the pitch at a steady speed, the way a singer does. The average stays on the note. Expressive held notes, old cartoons, or seasick at high depth. Rate is wobbles per second, Depth how far the pitch moves in cents (100 cents = 1 semitone), Onset how long it waits to fade in. 5-6 Hz and 20-40 cents sounds natural.",
+ "pt_BR": "O Vibrato sobe e desce a altura num ritmo constante, como um cantor faz. A média fica na nota. Notas longas expressivas, desenho antigo, ou enjoo com profundidade alta. Velocidade é quantas oscilações por segundo, Profundidade é quanto a altura se move em cents (100 cents = 1 semitom), Entrada é quanto ele demora para aparecer. 5-6 Hz e 20-40 cents soa natural.",
+ "es": "El Vibrato sube y baja la altura a un ritmo constante, como hace un cantante. La media se queda en la nota. Notas largas expresivas, dibujos antiguos, o mareo con mucha profundidad. Velocidad son las oscilaciones por segundo, Profundidad cuánto se mueve la altura en cents (100 cents = 1 semitono), Entrada cuánto tarda en aparecer. 5-6 Hz y 20-40 cents suena natural.",
+ "ja": "ビブラートは歌い手のように、一定の速さで音程を上げ下げします。平均は音の上に残ります。表情のある伸ばし、古いアニメ、深くすれば船酔い。レートは毎秒の揺れの回数、デプスは音程が動く幅（セント、100 セント = 1 半音）、オンセットはかかり始めるまでの時間。5〜6 Hz、20〜40 セントで自然に聞こえます。"
+},
+"0065": {
+ "en": "Pitch Variation lets the pitch wander around the note, randomly but smoothly, with the average still in tune. There's no steady rhythm like Vibrato has, so it comes out unsteady, drunk, ghostly, or just more human. The randomness is fixed per note: preview and export match. Depth is the largest deviation in cents, Speed how often it turns. Under 20 cents stays subtle.",
+ "pt_BR": "A Variação de Pitch deixa a altura passear em volta da nota, ao acaso mas sem trancos, com a média ainda afinada. Não tem o ritmo fixo do Vibrato, por isso sai instável, bêbada, fantasmagórica, ou só mais humana. O acaso é fixo por nota: preview e exportação batem. Profundidade é o maior desvio em cents, Velocidade é quantas vezes ela muda de rumo. Abaixo de 20 cents fica sutil.",
+ "es": "La Variación de altura deja que la altura vague alrededor de la nota, al azar pero sin saltos, con la media todavía afinada. No tiene el ritmo fijo del Vibrato, por eso sale inestable, borracha, fantasmal, o simplemente más humana. El azar es fijo por nota: vista previa y exportación coinciden. Profundidad es la mayor desviación en cents, Velocidad cuántas veces cambia de rumbo. Por debajo de 20 cents queda sutil.",
+ "ja": "ピッチ揺らぎは、音の周りを音程がランダムに、でもなめらかにさまよいます。平均は合ったまま。ビブラートのような一定のリズムがないので、不安定、酔っぱらい、幽霊のよう、あるいはただ人間らしく聞こえます。ランダムさは音ごとに固定なので、プレビューと書き出しは一致します。デプスは最大のずれ（セント）、スピードは向きを変える頻度。20 セント未満ならさりげなく。"
+},
+"0068": {
+ "en": "BitCrusher lowers the bit depth and the sample rate of the voice. Fewer bits bring hiss and harsh steps; a lower rate brings metallic aliasing. 8-bit, old consoles, broken radio. 8 bits at about 11 kHz is the classic console; 4 bits is wrecked.",
+ "pt_BR": "O BitCrusher baixa a resolução em bits e a taxa de amostragem da voz. Menos bits trazem chiado e degraus ásperos; uma taxa menor traz aliasing metálico. 8 bits, console antigo, rádio quebrado. 8 bits a uns 11 kHz é o console clássico; 4 bits é destruição.",
+ "es": "El BitCrusher baja la resolución en bits y la frecuencia de muestreo de la voz. Menos bits traen siseo y escalones ásperos; una frecuencia menor trae aliasing metálico. 8 bits, consolas viejas, radio rota. 8 bits a unos 11 kHz es la consola clásica; 4 bits es destrucción.",
+ "ja": "ビットクラッシャーは声のビット数とサンプルレートを下げます。ビットが減るとヒスと荒い段差が、レートが下がると金属的なエイリアシングが出ます。8 ビット、古いゲーム機、壊れたラジオ。約 11 kHz で 8 ビットが定番のゲーム機の音、4 ビットはボロボロです。"
+},
+"0071": {
+ "en": "Double Pitch adds a second voice a musical interval away, like singing in octaves or harmony. The original stays as it is; the copy comes in at the level you set. -12 gives a monster layer, +12 a cartoon one, +7 a power-chord feel. Detune makes the two voices beat against each other. Formants decides whether the copy keeps the original timbre or follows the pitch. It uses voice analysis, so it's slower.",
+ "pt_BR": "O Pitch Duplo acrescenta uma segunda voz a um intervalo musical de distância, como cantar em oitavas ou em harmonia. O original fica como está; a cópia entra no nível que você escolher. -12 dá uma camada de monstro, +12 uma de desenho, +7 um ar de power chord. Desafinação faz as duas vozes baterem uma contra a outra. Formantes decide se a cópia mantém o timbre original ou acompanha a altura. Usa análise de voz, então é mais lento.",
+ "es": "Doble altura añade una segunda voz a un intervalo musical de distancia, como cantar en octavas o en armonía. El original queda igual; la copia entra al nivel que elijas. -12 da una capa de monstruo, +12 una de dibujo animado, +7 un aire de power chord. Desafinación hace que las dos voces choquen entre sí. Formantes decide si la copia mantiene el timbre original o sigue la altura. Usa análisis de voz, así que es más lento.",
+ "ja": "ダブルピッチは、オクターブやハモリのように、音楽的な音程だけ離れた2つ目の声を足します。原音はそのまま、コピーは設定したレベルで入ります。-12 でモンスター、+12 でアニメ風、+7 でパワーコード風。デチューンで2つの声がうなり合います。フォルマントは、コピーが元の音色を保つか音程に従うかを決めます。声の解析を使うので時間がかかります。"
+},
+"0074": {
+ "en": "The Frequency Shifter adds the same number of hertz to every part of the sound. A pitch shift keeps the harmonics in proportion; this breaks them. The voice goes metallic, alien or bell-like, and a little out of tune. 5-30 Hz gives a phasing shimmer; 100 Hz and up sounds robotic. Positive goes up, negative goes down.",
+ "pt_BR": "O Deslocador de Frequência soma o mesmo número de hertz a cada parte do som. Um pitch shift mantém os harmônicos em proporção; este quebra a proporção. A voz fica metálica, alienígena ou de sino, e um pouco desafinada. 5-30 Hz dá um brilho de phasing; de 100 Hz para cima soa robótico. Positivo sobe, negativo desce.",
+ "es": "El Desplazador de frecuencia suma el mismo número de hercios a cada parte del sonido. Un cambio de altura mantiene la proporción de los armónicos; este la rompe. La voz se vuelve metálica, alienígena o de campana, y un poco desafinada. 5-30 Hz da un brillo de phasing; de 100 Hz para arriba suena robótico. Positivo sube, negativo baja.",
+ "ja": "周波数シフターは音のすべての成分に同じヘルツ数を足します。ピッチシフトは倍音の比率を保ちますが、これは崩します。声は金属的に、宇宙人のように、鐘のようになり、少し音程が外れます。5〜30 Hz ならフェイジングのようなきらめき、100 Hz 以上はロボット。プラスで上へ、マイナスで下へ。"
+},
+"0077": {
+ "en": "Chorus mixes in copies of the voice on short, slowly moving delays. Tiny pitch and timing differences make it sound like several singers, wider and softer. Dreamy, choir-like, or a ghost. Voices is how many copies, Rate and Depth how much they move, Delay how far behind they sit, Spread how wide they go in stereo.",
+ "pt_BR": "O Chorus mistura cópias da voz com atrasos curtos que se movem devagar. Pequenas diferenças de altura e tempo fazem parecer vários cantores, mais largo e mais macio. Sonhador, coral, ou fantasma. Vozes é quantas cópias, Velocidade e Profundidade é quanto elas se mexem, Atraso é quanto ficam para trás, Abertura é quanto se espalham no stereo.",
+ "es": "El Chorus mezcla copias de la voz con retardos cortos que se mueven despacio. Pequeñas diferencias de altura y tiempo hacen que parezcan varios cantantes, más ancho y más suave. Soñador, coral o fantasma. Voces es cuántas copias, Velocidad y Profundidad cuánto se mueven, Retardo cuánto se quedan atrás, Amplitud cuánto se abren en estéreo.",
+ "ja": "コーラスは、短くゆっくり動くディレイをかけた声のコピーを混ぜます。音程とタイミングのわずかな差で、何人もの歌い手のように、広く柔らかく聞こえます。夢のような響き、聖歌隊、幽霊。ボイスはコピーの数、レートとデプスは揺れの量、ディレイは遅れ、スプレッドはステレオの広がりです。"
+},
+"0080": {
+ "en": "The Phaser mixes the voice with a phase-shifted copy, which cuts moving notches into the spectrum. It swooshes and swirls: underwater, spacey, psychedelic. Rate is the sweep speed, Depth how far it sweeps, Center where the notches sit, Stages how many there are, Feedback how sharply they ring.",
+ "pt_BR": "O Phaser mistura a voz com uma cópia defasada, o que abre vales móveis no espectro. Ele faz 'vush' e rodopia: debaixo d'água, espacial, psicodélico. Velocidade é a rapidez da varredura, Profundidade até onde ela vai, Centro onde ficam os vales, Estágios quantos são, Feedback o quanto eles ressoam.",
+ "es": "El Phaser mezcla la voz con una copia desfasada, lo que abre valles móviles en el espectro. Hace 'fuuush' y gira: bajo el agua, espacial, psicodélico. Velocidad es la rapidez del barrido, Profundidad hasta dónde llega, Centro dónde están los valles, Etapas cuántos hay, Realimentación cuánto resuenan.",
+ "ja": "フェイザーは位相をずらした声のコピーを混ぜ、スペクトルに動く谷を刻みます。うねり、渦巻きます。水中、宇宙、サイケデリック。レートはスイープの速さ、デプスは幅、センターは谷の位置、ステージは谷の数、フィードバックは響きの鋭さです。"
+},
+"0083": {
+ "en": "The Ring Modulator multiplies the voice by a second tone, the carrier. The rhythm of the words survives, but the pitch turns into metallic sum and difference tones. That's the old robot voice. With the carrier following the note, the robot sounds the same across the whole chromatic; a fixed carrier gives each note its own colour. 30-60 % mix keeps the words understandable.",
+ "pt_BR": "O Modulador em Anel multiplica a voz por um segundo tom, o portador. O ritmo das palavras sobrevive, mas a altura vira tons metálicos de soma e diferença. É a velha voz de robô. Com o portador seguindo a nota, o robô soa igual na cromática inteira; um portador fixo dá a cada nota uma cor diferente. Com 30-60 % de mix dá para entender as palavras.",
+ "es": "El Modulador en anillo multiplica la voz por un segundo tono, la portadora. El ritmo de las palabras sobrevive, pero la altura se convierte en tonos metálicos de suma y diferencia. Es la vieja voz de robot. Con la portadora siguiendo la nota, el robot suena igual en toda la cromática; una portadora fija le da a cada nota su propio color. Con 30-60 % de mezcla las palabras se entienden.",
+ "ja": "リングモジュレーターは声を2つ目の音（キャリア）と掛け合わせます。言葉のリズムは残り、音程は金属的な和音と差音に変わります。昔ながらのロボット声です。キャリアを音に追従させるとクロマチック全体で同じロボットに、固定すると音ごとに違う色になります。ミックス 30〜60 % なら言葉が聞き取れます。"
+},
+"0086": {
+ "en": "Noise puts a noise layer under the voice. Its level is relative to the voice: quiet and loud samples get the same amount. Follow makes it rise and fall with the voice, and the gaps between notes stay clean. Radio, old tape, whispers, breathy horror. Types: white (bright hiss), pink (soft hiss), brown (rumble), crackle (vinyl).",
+ "pt_BR": "O Ruído põe uma camada de ruído por baixo da voz. O nível é relativo à voz: samples baixos e altos recebem a mesma quantidade. Seguir faz o ruído subir e descer com a voz, e os vãos entre as notas ficam limpos. Rádio, fita velha, sussurro, terror ofegante. Tipos: branco (chiado brilhante), rosa (chiado suave), marrom (ronco), estalos (vinil).",
+ "es": "El Ruido pone una capa de ruido bajo la voz. El nivel es relativo a la voz: los samples suaves y fuertes reciben la misma cantidad. Seguir hace que suba y baje con la voz, y los huecos entre notas quedan limpios. Radio, cinta vieja, susurros, terror jadeante. Tipos: blanco (siseo brillante), rosa (siseo suave), marrón (retumbe), crepitar (vinilo).",
+ "ja": "ノイズは声の下にノイズの層を敷きます。レベルは声に対する相対値で、小さいサンプルにも大きいサンプルにも同じだけかかります。フォローにすると声と一緒に上下し、音と音の間は静かなまま。ラジオ、古いテープ、ささやき、息づかいのホラー。種類：ホワイト（明るいヒス）、ピンク（柔らかいヒス）、ブラウン（ゴロゴロ）、パチパチ（レコード）。"
+},
+"0088": {
+ "en": "The EQ boosts or cuts frequency ranges. Low cut clears rumble and mic noise. The low shelf adds or takes away body, the mid band handles presence and nasal tone, the high shelf adds air or darkness, and high cut removes hiss or fakes a phone or radio. Moves of 2-4 dB are usually plenty. Everything at 0 dB with the cuts at their limits changes nothing.",
+ "pt_BR": "O EQ reforça ou corta faixas de frequência. O corte de graves limpa ronco e ruído de microfone. A prateleira de graves põe ou tira corpo, a banda média cuida da presença e do tom anasalado, a prateleira de agudos põe ar ou escurece, e o corte de agudos tira chiado ou imita telefone e rádio. Mexer 2-4 dB costuma bastar. Tudo em 0 dB com os cortes nos extremos não muda nada.",
+ "es": "El EQ refuerza o recorta rangos de frecuencia. El corte de graves limpia el retumbe y el ruido de micrófono. El estante de graves pone o quita cuerpo, la banda media se ocupa de la presencia y el tono nasal, el estante de agudos añade aire u oscurece, y el corte de agudos quita siseo o imita un teléfono o una radio. Mover 2-4 dB suele bastar. Todo en 0 dB con los cortes en sus extremos no cambia nada.",
+ "ja": "EQ は周波数帯を持ち上げたり削ったりします。ローカットはゴロゴロやマイクのノイズを除きます。ローシェルフは厚みを足し引きし、ミッドは前に出る感じと鼻声を、ハイシェルフは空気感や暗さを、ハイカットはヒスを除いたり電話やラジオのまねをしたりします。2〜4 dB 動かせばたいてい十分。全部 0 dB でカットを端にすると何も変わりません。"
+},
+"0140": {
+ "en": "Offsets the right channel in stereo exports. The pulse then moves left and right. No effect in mono.",
+ "pt_BR": "Desloca o canal direito em exportações stereo. Aí o pulso anda da esquerda para a direita. Sem efeito em mono.",
+ "es": "Desplaza el canal derecho en exportaciones estéreo. Así el pulso va de izquierda a derecha. Sin efecto en mono.",
+ "ja": "ステレオ書き出しで右チャンネルをずらします。揺れが左右に動きます。モノラルでは効果なし。"
+},
+"0143": {
+ "en": "Fade-in time. The attack of the note stays steady.",
+ "pt_BR": "Tempo de entrada. O ataque da nota fica firme.",
+ "es": "Tiempo de entrada. El ataque de la nota queda firme.",
+ "ja": "かかり始めるまでの時間。音の立ち上がりは安定したままです。"
+},
+"0263": {
+ "en": "Turn on 'Trim silence' in Exporting, or trim the file. Notes will start on time.",
+ "pt_BR": "Ligue 'Cortar silêncio' em Exportação, ou corte o arquivo. As notas vão começar na hora.",
+ "es": "Activa 'Recortar silencio' en Exportación, o recorta el archivo. Las notas empezarán a tiempo.",
+ "ja": "書き出しの「無音をカット」をオンにするか、ファイルを切り詰めてください。音が遅れずに始まります。"
+},
+"0270": {
+ "en": "Turn on Normalize per note in Exporting, or level the files. Every note will come out equally loud.",
+ "pt_BR": "Ligue Normalizar por nota em Exportação, ou nivele os arquivos. Todas as notas vão sair no mesmo volume.",
+ "es": "Activa Normalizar por nota en Exportación, o nivela los archivos. Todas las notas saldrán igual de fuertes.",
+ "ja": "書き出しの「音ごとにノーマライズ」をオンにするか、ファイルの音量をそろえてください。どの音も同じ大きさで出ます。"
+},
+"0333": {
+ "en": "Pick a starting theme. Changes hit the whole app right away. Save to keep them as your own theme.",
+ "pt_BR": "Escolha um tema para começar. As mudanças valem para o app inteiro na hora. Salve para guardar como tema seu.",
+ "es": "Elige un tema para empezar. Los cambios se aplican a toda la app al momento. Guárdalos para tenerlos como tema propio.",
+ "ja": "最初のテーマを選んでください。変更はすぐアプリ全体に反映されます。保存すれば自分のテーマになります。"
+},
+"0341": {
+ "en": "Click a swatch to pick a colour, or type a hex code like #FFA600. Clear a field to go back to the theme's colour. Hover, border and faint-text shades follow along.",
+ "pt_BR": "Clique numa amostra para escolher a cor, ou digite um código hex como #FFA600. Apague o campo para voltar à cor do tema. Os tons de hover, borda e texto apagado acompanham.",
+ "es": "Haz clic en una muestra para elegir el color, o escribe un código hex como #FFA600. Borra el campo para volver al color del tema. Los tonos de hover, borde y texto tenue acompañan.",
+ "ja": "見本をクリックして色を選ぶか、#FFA600 のような16進コードを入力します。欄を空にするとテーマの色に戻ります。ホバー、枠、薄い文字の色合いも一緒に変わります。"
+},
+"0343": {
+ "en": "Voxa GEN checks that text stays readable on every surface. When a combination is too weak, it fixes the text colour for you.",
+ "pt_BR": "O Voxa GEN confere se o texto continua legível em todas as superfícies. Quando uma combinação fica fraca demais, ele acerta a cor do texto para você.",
+ "es": "Voxa GEN comprueba que el texto siga legible sobre cada superficie. Cuando una combinación es demasiado débil, corrige el color del texto por ti.",
+ "ja": "Voxa GEN はどの面でも文字が読めるかを確かめます。組み合わせが弱すぎるときは、文字の色を直してくれます。"
+},
+"0392": {
+ "en": "Natural measures the voice once, then rebuilds every note at its exact pitch. The voice keeps its character (formants), its breaths and its consonants. Samples keep their length.",
+ "pt_BR": "O Natural mede a voz uma vez e depois reconstrói cada nota na altura exata. A voz mantém o caráter (formantes), as respirações e as consoantes. Os samples mantêm a duração.",
+ "es": "Natural mide la voz una vez y luego reconstruye cada nota en su altura exacta. La voz conserva su carácter (formantes), sus respiraciones y sus consonantes. Los samples conservan su duración.",
+ "ja": "ナチュラルは声を一度だけ測り、各音を正確な音程で作り直します。声の個性（フォルマント）、息、子音はそのまま。サンプルの長さも変わりません。"
+},
+"0478": {
+ "en": "Runs the LAB effect chain on every note after the export mode (Natural, Robot, Legacy or Lab): chromatic preview, export and batch jobs. Off means effects don't touch the export at all. Your sample files are never changed.",
+ "pt_BR": "Roda a cadeia de efeitos do LAB em cada nota depois do modo de exportação (Natural, Robot, Legacy ou Lab): no preview da cromática, na exportação e nas tarefas em lote. Desligado, os efeitos não encostam na exportação. Seus arquivos de sample nunca mudam.",
+ "es": "Aplica la cadena de efectos del LAB a cada nota después del modo de exportación (Natural, Robot, Legacy o Lab): vista previa de la cromática, exportación y tareas en lote. Desactivado, los efectos no tocan la exportación. Tus archivos de sample nunca cambian.",
+ "ja": "書き出しモード（ナチュラル、ロボット、レガシー、ラボ）の後に、LAB のエフェクトチェーンを各音にかけます。クロマチックのプレビュー、書き出し、一括ジョブすべてに。オフならエフェクトは書き出しに一切触れません。サンプルファイルは変更されません。"
+},
+"0549": {
+ "en": "Hear the whole chromatic before exporting, with the exact processing the export uses. Click a key to hear one note.",
+ "pt_BR": "Ouça a cromática inteira antes de exportar, com o mesmíssimo processamento da exportação. Clique numa tecla para ouvir uma nota.",
+ "es": "Escucha la cromática entera antes de exportar, con el mismo procesamiento que usa la exportación. Haz clic en una tecla para oír una nota.",
+ "ja": "書き出しとまったく同じ処理で、クロマチック全体を書き出し前に聴けます。鍵盤をクリックすると1音だけ聴けます。"
+},
+"0569": {
+ "en": "Legacy has no settings on purpose. It always works the same way, and old projects keep sounding the same: mono, 48 kHz, classic PSOLA retuning.",
+ "pt_BR": "O Legacy não tem configurações de propósito. Ele funciona sempre igual, e os projetos antigos continuam soando como antes: mono, 48 kHz, afinação PSOLA clássica.",
+ "es": "Legacy no tiene ajustes a propósito. Siempre funciona igual, y los proyectos antiguos siguen sonando como antes: mono, 48 kHz, afinación PSOLA clásica.",
+ "ja": "レガシーにはあえて設定がありません。いつも同じように動き、古いプロジェクトも以前と同じ音のままです。モノラル、48 kHz、昔ながらの PSOLA による音程補正。"
+},
+"0595": {
+ "en": "Faster and lighter. Still exactly in tune (not a robot effect).",
+ "pt_BR": "Mais rápido e mais leve. Continua afinado na nota exata (não é efeito de robô).",
+ "es": "Más rápido y ligero. Sigue afinado en la nota exacta (no es un efecto de robot).",
+ "ja": "速くて軽い。それでも音程はぴったり（ロボットエフェクトではありません）。"
+},
+"0656": {
+ "en": "Renders the sample again every time you change a tool. You always hear the current settings. On a slow computer, turn it off and press Render yourself.",
+ "pt_BR": "Renderiza o sample de novo a cada mudança numa ferramenta. Você ouve sempre as configurações atuais. Em computador lento, desligue e aperte Renderizar você mesmo.",
+ "es": "Vuelve a renderizar el sample cada vez que cambias una herramienta. Siempre oyes los ajustes actuales. En un equipo lento, desactívalo y pulsa Renderizar tú.",
+ "ja": "ツールを変えるたびにサンプルをレンダリングし直します。いつでも今の設定の音が聴けます。遅いパソコンではオフにして、自分でレンダリングを押してください。"
+},
+"0662": {
+ "en": "A is the original sample, B the processed one. Switching keeps the position and the volume. All you hear is the difference in sound.",
+ "pt_BR": "A é o sample original, B o processado. Ao trocar, a posição e o volume continuam iguais. O que muda é só o som.",
+ "es": "A es el sample original, B el procesado. Al cambiar, la posición y el volumen siguen iguales. Lo único que cambia es el sonido.",
+ "ja": "A が元のサンプル、B が処理後。切り替えても位置と音量はそのまま。変わるのは音だけです。"
+},
+"0666": {
+ "en": "Plays A and B at the same loudness, so you judge the sound and not the volume. Previews only. Exports never change.",
+ "pt_BR": "Toca A e B no mesmo volume, para você julgar o som e não o volume. Só nos previews. As exportações não mudam.",
+ "es": "Reproduce A y B al mismo volumen, para que juzgues el sonido y no el volumen. Solo en vistas previas. Las exportaciones no cambian.",
+ "ja": "A と B を同じ音量で再生します。音量ではなく音そのものを比べられます。プレビューだけで、書き出しは変わりません。"
+},
+"0864": {
+ "en": "Small sounds for clicks, exports and errors. They have their own audio channel and never end up in previews or exported files.",
+ "pt_BR": "Sonzinhos para cliques, exportações e erros. Eles têm um canal de áudio próprio e nunca vão parar nos previews nem nos arquivos exportados.",
+ "es": "Sonidos pequeños para clics, exportaciones y errores. Tienen su propio canal de audio y nunca acaban en las vistas previas ni en los archivos exportados.",
+ "ja": "クリック、書き出し、エラーの小さな効果音。専用の音声チャンネルで鳴るので、プレビューや書き出したファイルには入りません。"
+},
+"0937": {
+ "en": "Looks for whatever would make a chromatic sound wrong: missing or unreadable files, silence, clipping, notes much louder or quieter than the rest, very different lengths. Files are only read, never changed.",
+ "pt_BR": "Procura o que faria a cromática soar errada: arquivos faltando ou ilegíveis, silêncio, clipping, notas muito mais altas ou baixas que as outras, durações muito diferentes. Os arquivos só são lidos, nunca alterados.",
+ "es": "Busca lo que haría sonar mal una cromática: archivos que faltan o no se pueden leer, silencio, saturación, notas mucho más fuertes o suaves que el resto, duraciones muy distintas. Los archivos solo se leen, nunca se cambian.",
+ "ja": "クロマチックがおかしく聞こえる原因を探します。ファイルの欠落や読み込み不可、無音、音割れ、他より極端に大きい・小さい音、長さの大きな違い。ファイルは読むだけで、変更しません。"
+},
+"0967": {
+ "en": "A job is a snapshot of ALL the current Generator settings: samples, order, mode, effects, export. Change something, add another job, and export several versions in one go.",
+ "pt_BR": "Uma tarefa é uma foto de TODAS as configurações atuais do Generator: samples, ordem, modo, efeitos, exportação. Mude alguma coisa, adicione outra tarefa e exporte várias versões de uma vez.",
+ "es": "Una tarea es una foto de TODOS los ajustes actuales del Generador: samples, orden, modo, efectos, exportación. Cambia algo, añade otra tarea y exporta varias versiones de una vez.",
+ "ja": "ジョブは、ジェネレーターの現在の設定すべて（サンプル、順番、モード、エフェクト、書き出し）のスナップショットです。何か変えて別のジョブを足せば、いくつものバージョンを一度に書き出せます。"
+},
+"0987": {
+ "en": "Exports every waiting job in order, each with its own saved settings. You see progress per job and for the whole queue. Cancel stops the current job (nothing half-written is kept) and leaves the rest waiting.",
+ "pt_BR": "Exporta cada tarefa da fila em ordem, cada uma com as próprias configurações salvas. O progresso aparece por tarefa e para a fila inteira. Cancelar para a tarefa atual (nada pela metade fica salvo) e deixa as outras esperando.",
+ "es": "Exporta cada tarea en espera por orden, cada una con sus propios ajustes guardados. El progreso se ve por tarea y para toda la cola. Cancelar detiene la tarea actual (no se guarda nada a medias) y deja el resto esperando.",
+ "ja": "待機中のジョブを順番に、それぞれ保存した設定で書き出します。進み具合はジョブごとと、キュー全体で表示されます。キャンセルすると今のジョブだけ止まり（途中のファイルは残りません）、残りは待機のままです。"
+},
+"1035": {
+ "en": "When this is on, the chain below runs after the export mode (Natural, Robot, Legacy or Lab) in the chromatic preview, the export and the batch queue. When it's off, exports sound exactly as they would without effects. The A/B player below plays the chain either way.",
+ "pt_BR": "Ligado, a cadeia abaixo roda depois do modo de exportação (Natural, Robot, Legacy ou Lab) no preview da cromática, na exportação e na fila em lote. Desligado, as exportações soam exatamente como sem efeitos. O player A/B abaixo toca a cadeia de qualquer jeito.",
+ "es": "Activado, la cadena de abajo se aplica después del modo de exportación (Natural, Robot, Legacy o Lab) en la vista previa de la cromática, la exportación y la cola en lote. Desactivado, las exportaciones suenan exactamente como sin efectos. El reproductor A/B de abajo toca la cadena igualmente.",
+ "ja": "オンにすると、下のチェーンが書き出しモード（ナチュラル、ロボット、レガシー、ラボ）の後に、クロマチックのプレビュー、書き出し、一括キューでかかります。オフなら書き出しはエフェクトなしとまったく同じ音。下の A/B プレーヤーはどちらでもチェーンを鳴らします。"
+},
+"1088": {
+ "en": "How strongly slow pitch drift is pulled onto the target note. 100 % = dead flat on the target. Lower values keep some of the singer's natural drift (always centred on the target).",
+ "pt_BR": "O quanto a deriva lenta de altura é puxada para a nota alvo. 100 % = totalmente reta no alvo. Valores menores mantêm um pouco da deriva natural do cantor (sempre centrada no alvo).",
+ "es": "Con cuánta fuerza la deriva lenta de altura se lleva a la nota objetivo. 100 % = totalmente plana en el objetivo. Los valores bajos conservan algo de la deriva natural del cantante (siempre centrada en el objetivo).",
+ "ja": "ゆっくりした音程のずれを、目標の音へどれだけ強く引き寄せるか。100 % = 目標にぴったり平ら。値を下げると歌い手の自然なずれが少し残ります（中心は常に目標）。"
+},
+"1090": {
+ "en": "Keeps the fast natural micro-variation (vibrato, jitter) of the source. It averages out to zero and has a cap. The note stays in tune.",
+ "pt_BR": "Mantém a microvariação natural e rápida (vibrato, jitter) da origem. A média dá zero e existe um limite. A nota continua afinada.",
+ "es": "Conserva la microvariación natural y rápida (vibrato, jitter) del origen. Su media es cero y tiene un límite. La nota sigue afinada.",
+ "ja": "元の音の速く自然な細かい揺れ（ビブラート、ジッター）を残します。平均はゼロで、上限もあります。音程は合ったままです。"
+},
+"1105": {
+ "en": "Blend between the refined output (wet) and plain resynthesis (dry). Both sit on the target pitch. Turning it never detunes anything.",
+ "pt_BR": "Mistura entre a saída refinada (wet) e a ressíntese simples (dry). As duas estão na altura alvo. Mexer aqui nunca desafina nada.",
+ "es": "Mezcla entre la salida refinada (wet) y la resíntesis simple (dry). Las dos están en la altura objetivo. Moverlo nunca desafina nada.",
+ "ja": "仕上げた出力（ウェット）と単純な再合成（ドライ）の混ぜ具合。どちらも目標の音程にあります。動かしても音程は外れません。"
+},
+"1111": {
+ "en": "Matches the loudness of each processed note to the original sample. Tuning won't make notes louder or quieter (at most ±12 dB).",
+ "pt_BR": "Iguala o volume de cada nota processada ao do sample original. A afinação não deixa as notas mais altas nem mais baixas (no máximo ±12 dB).",
+ "es": "Iguala el volumen de cada nota procesada al del sample original. La afinación no hará las notas más fuertes ni más suaves (como máximo ±12 dB).",
+ "ja": "処理した各音の音量を元のサンプルに合わせます。音程補正で音が大きく・小さくなりません（最大 ±12 dB）。"
+},
+"1138": {
+ "en": "Locate each file, or search a folder and its subfolders for all of them at once. Files are found by name; if several share the name, the one with the same content wins. You can also open the project without them: they stay listed as missing.",
+ "pt_BR": "Localize cada arquivo, ou procure numa pasta e nas subpastas todos de uma vez. Os arquivos são achados pelo nome; se vários tiverem o mesmo nome, vence o que tiver o mesmo conteúdo. Também dá para abrir o projeto sem eles: ficam listados como faltando.",
+ "es": "Localiza cada archivo, o busca en una carpeta y sus subcarpetas todos a la vez. Los archivos se encuentran por nombre; si varios comparten nombre, gana el que tenga el mismo contenido. También puedes abrir el proyecto sin ellos: quedan listados como faltantes.",
+ "ja": "ファイルを1つずつ指定するか、フォルダーとそのサブフォルダーからまとめて探します。ファイルは名前で見つけ、同じ名前が複数あれば中身が同じものを選びます。ファイルなしでプロジェクトを開くこともでき、その場合は「見つからない」として一覧に残ります。"
+},
+"0225": {
+ "ja": "正確な音程、フォルマントはそのまま。"
+},
+"0890": {
+ "ja": "下の各イベントは、オフにする、小さくする、試聴する、自分のファイル（WAV、OGG、MP3、FLAC、5 秒まで）に置き換える、のどれもできます。"
+}
+}

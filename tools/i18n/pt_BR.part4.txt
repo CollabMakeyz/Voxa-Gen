@@ -1,0 +1,37 @@
+1224|{n} elementos · {u} únicos: {list}
+1225|Apagar “{name}”? Isso não pode ser desfeito.
+1226|{n} preset(s) importado(s).
+1227|A exportação falhou: {error}
+1228|{n} notas · {sec} s · renderizado em {t} s
+1229|Nota {n}/{total} · {what}
+1230|sample {id}
+1231|{n} com falha
+1232|Sem processamento · a exportação usa {mode}
+1233|Comparação · a exportação usa {mode}
+1234|{n} com avisos
+1235|{file} faltando
+1236|Exportar para “{folder}”
+1237|… e mais {n}
+1238|{n} arquivo(s) em “{folder}” seriam substituídos:
+1239|posição {pos}
+1240|Usar {file}
+1241|{note} · nota {n}
+1242|{n} elementos · {u} únicos
+1243|Nome do sample do elemento {n}:
+1244|“{name}” carregado ({n} elementos).
+1245|faltando: {files}
+1246|{m} trocados, {s} pulados
+1247|Nome(s) inválido(s): {names}
+1248|{file} não está carregado.
+1249|{n} elementos · {sec} s
+1250|'{name}' não é um nome de sample válido.
+1251|Elemento {n}: {tok} → {file} não carregado
+1252|{n} elementos selecionados
+1253|Salvar suas mudanças por cima do preset nativo “{name}”? Você pode restaurar o original depois.
+1254|A importação falhou: {error}
+1255|Não foi possível ler {file}: {error}
+1256|Renderizando {c}/{n} · {what}
+1257|trocado por {file}
+1258|Elemento {n}: {tok} → {file}
+1259|{file} está faltando
+1260|{n} notas

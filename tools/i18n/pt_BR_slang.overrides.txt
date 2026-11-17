@@ -1,0 +1,25 @@
+0305|Bora gerar
+0309|Visual
+0837|Config
+0198|Feito, mano!
+0301|Deu ruim
+0559|Deu ruim na exportação
+0558|Exportou, show de bola!
+0560|Exportação cancelada, de boa
+0552|Mandar a cromática
+0556|Tudo pronto pra exportar
+0561|Nenhum arquivo foi gravado, relaxa.
+0283|Não tem nenhum sample pra usar, mano.
+0612|Nenhum sample carregado ainda
+0685|Renderizando, segura aí…
+0686|Tá atualizado
+0991|Segura aí, deixa a exportação atual terminar.
+0989|Lote finalizado, show!
+0998|A fila tá vazia.
+0380|Tudo de boa pra ler.
+0957|Nenhuma treta nos {n} samples. Massa!
+1123|Se liga
+1136|Projeto aberto, bora!
+1146|Projeto salvo: {name}. Tranquilo!
+0886|Sons padrão de volta.
+0853|Pirate English e Meowgwenge são idiomas zoeira, mas tudo continua funcionando e dá pra entender.

@@ -1,0 +1,171 @@
+# 1.0.0: "Por qué usarlo" de la ventana de ayuda
+1261|Pon diez exportaciones en la cola y ve a por un café. No hace falta vigilarlas una a una.
+1262|En una cola larga, un buen nombre es lo que te deja encontrar la tarea correcta.
+1263|Vuelve a lanzar la cola cuando quieras. Las exportaciones anteriores se quedan donde están.
+1264|Empieza donde empieza tu canción. Sin notas de sobra por debajo de lo que usas.
+1265|Menos notas, archivos más pequeños, exportaciones más rápidas.
+1266|Si tu proyecto no está en 440 Hz, ajústalo aquí y todo queda afinado.
+1267|Igual funciona en cualquier tonalidad. Por eso casi toda la música lo usa.
+1268|Justa y pitagórica solo suenan puras en una tonalidad. Elige la de tu canción.
+1269|La afinación exacta suena bien con cualquier instrumento. Desactívala solo si quieres la voz en bruto, sin afinar.
+1270|Un archivo malo arruina la cromática entera. Aquí lo ves antes de exportar.
+1271|Volver a exportar todo por una nota saturada no es divertido. Detéctalo aquí antes.
+1272|Misma semilla, mismo orden. Siempre — así puedes rehacer o compartir una exportación idéntica.
+1273|Buenos ajustes en un clic. Retoca desde ahí si quieres.
+1274|100 % es totalmente plano. Bájalo un poco y vuelve el cantante.
+1275|La nota queda afinada y la interpretación sigue respirando.
+1276|Un tope de seguridad. La humanización nunca se aleja tanto como para desafinar.
+1277|La misma persona en todas las notas. Ni ardilla arriba ni gigante abajo.
+1278|Las consonantes siguen chasqueando. Las palabras se entienden.
+1279|Corto: solo el golpe del ataque. Más largo: más del sonido original.
+1280|Notas largas más tranquilas. Menos temblor.
+1281|¿Ese zumbido metálico que dejan los afinadores? Esto es lo que lo quita.
+1282|Una respiración no tiene nota. Forzarle una suena falso — esto la deja en paz.
+1283|Procesado más suave, y la nota nunca desafina.
+1284|¿Tienes tiempo? Súbelo. El detalle se oye.
+1285|Un mal remuestreo apaga los agudos. Uno bueno no.
+1286|Cada nota sale con el volumen de su sample. Cromática pareja, sin sorpresas.
+1287|Esta separación es gran parte de por qué respiraciones y consonantes suenan reales.
+1288|Funciona con casi cualquier voz. Nada que ajustar.
+1289|Para voces muy graves que se leen como ruido o en la octava equivocada.
+1290|Para voces muy agudas que se leen una octava por debajo.
+1291|Paso pequeño: sigue cambios rápidos. Paso grande: las exportaciones largas acaban antes.
+1292|Agudos limpios tras cambiar la frecuencia.
+1293|Lo que oyes en el LAB es lo que acaba en los archivos.
+1294|Usa la frecuencia de tu DAW y no tendrá que convertir nada.
+1295|¿Vas a mezclar después? 24 bits o float. ¿Solo compartir? 16 bits suena en todas partes.
+1296|Las voces casi siempre son mono. Estéreo solo ayuda con samples estéreo.
+1297|Las colas suaves quedan limpias. Ni lo notarás trabajar.
+1298|Un poco de espacio entre notas facilita cortarlas.
+1299|Misma duración en cada nota — cortar y mapear en el sampler se vuelve predecible.
+1300|Tú decides: no cortar nunca una nota, o dejarlas todas exactamente igual de largas.
+1301|Sin clics en los bordes. La nota suena igual.
+1302|Lo bastante fuerte, nunca distorsionado.
+1303|Dinámica natural o todas las notas igual de fuertes. Elige una.
+1304|Un solo control para toda la exportación. Mejor que arreglarlo luego en la DAW.
+1305|Una exportación fuerte no sale distorsionada. Solo baja un poco.
+1306|Las notas empiezan justo en el pulso, sin un hueco de silencio.
+1307|Un archivo, todas las notas. La forma más rápida de meterlo en un sampler o en Slicex.
+1308|Slicex corta por ti. Sin colocar marcadores a mano.
+1309|Arrastra notas sueltas a cualquier sampler.
+1310|Las exportaciones dejan de quedar desperdigadas por el disco.
+1311|Cada exportación tiene su carpeta. Las versiones nunca se mezclan.
+1312|Tu yo del futuro sabrá qué es este archivo.
+1313|Archivos con el nombre de la nota, así el sampler los mapea solo.
+1314|Un sample se renderiza rápido. Prueba ideas aquí y exporta después.
+1315|Las notas lejanas hacen que cada herramienta se oiga bien.
+1316|Cambias algo, lo oyes. Sin clics de más.
+1317|Los mismos efectos del LAB, ahora en toda la cromática.
+1318|Más joven, más mayor, más grande, más pequeña. La nota no se mueve.
+1319|Poco: sutil. Mucho: dibujo animado o monstruo.
+1320|Cambia un color y el resto sigue combinando.
+1321|El color que más ves. Marca el ambiente.
+1322|Antes y después en colores distintos. Fácil de diferenciar.
+1323|Siempre sabes dónde estás, incluso con el teclado.
+1324|Un fondo tranquilo mantiene la vista en el contenido.
+1325|La página se separa del fondo.
+1326|Los ajustes relacionados quedan juntos.
+1327|Botones a juego con el tema. La app se siente una sola cosa.
+1328|Si un color hace el texto difícil de leer, Voxa GEN lo corrige.
+1329|Tus colores. Tu marca, tu gusto.
+1330|Las sesiones largas cansan menos con una fuente que te guste leer.
+1331|Más grande descansa la vista. Más pequeño cabe más.
+1332|Cuadrado, redondo, muy redondo. Lo que te parezca bien.
+1333|Compacto para pantallas pequeñas. Amplio para hacer clic más fácil.
+1334|Elige lo que te ayude a encontrar las páginas más rápido.
+1335|Cada ajuste se entiende mejor en tu idioma.
+1336|Colores, fuente, tamaño — todo en una página.
+1337|Las transiciones muestran qué cambió. Desactivadas, todo es instantáneo.
+1338|Más sitio para el trabajo. Útil en portátiles.
+1339|Un "funcionó" rápido que no estorba.
+1340|Te enteras de que la exportación terminó aunque estés en otra ventana.
+1341|Un clic sin querer no tira a la basura una exportación de 20 minutos.
+1342|Deja de elegir carpeta cada vez.
+1343|Previews a un volumen cómodo. Los archivos exportados no cambian.
+1344|La preview siempre coincide con los ajustes. ¿PC lento? Desactívalo.
+1345|Oírlo varias veces seguidas ayuda a juzgarlo.
+1346|Lo ya hecho se reutiliza. Previews y exportaciones mucho más rápidas.
+1347|Enfado, agresividad, voz rota. Atraviesa cualquier mezcla cargada.
+1348|Más drive, más suciedad. Menos mantiene la voz reconocible.
+1349|De cálido a metálico. Cada tipo tiene su sabor.
+1350|Quita el chisporroteo y mantiene el drive.
+1351|Evita que el efecto suba el volumen de golpe.
+1352|¿Voz fina? Esto la hace más llena y cálida — sin sonar distorsionada.
+1353|Un poco la calienta. Mucho la colorea a propósito.
+1354|Cinta es suave. Válvula es más rica.
+1355|Más redondo y suave a medida que subes.
+1356|Temblorosa, nerviosa, rítmica. La nota no cambia.
+1357|Ajústalo al tempo de la canción y los pulsos caen en el pulso.
+1358|Bajo: un pulso suave. Alto: la voz queda troceada.
+1359|Ondas suaves o cortes secos.
+1360|En estéreo, el pulso pasa de un altavoz a otro.
+1361|Las notas largas suenan cantadas, no congeladas. Siguen afinadas.
+1362|De 5 a 7 por segundo suena como un cantante de verdad.
+1363|Poco suena natural. Mucho suena dramático — o mareado.
+1364|Un cantante real empieza firme y añade el vibrato después. Esto hace lo mismo.
+1365|Redondo y natural, o un barrido mecánico.
+1366|Elimina el sonido plano de robot. Las notas siguen afinadas.
+1367|Unos pocos cents bastan para sonar humano. Más empieza a tambalearse.
+1368|Lento suena natural. Rápido suena nervioso.
+1369|Retro, videojuego, lo-fi.
+1370|Menos bits: más viejo y más sucio.
+1371|Frecuencia más baja: más digital, más metálico.
+1372|Octavas o armonías sin volver a grabar.
+1373|Una octava siempre funciona. Quintas y terceras hacen armonía.
+1374|Una desafinación mínima y parece un segundo cantante.
+1375|Deja la copia más baja. La voz principal debe mandar.
+1376|Mantener: segunda voz natural. Seguir: dibujo animado o monstruo.
+1377|Un retardo corto suena a dos tomas distintas.
+1378|Alienígena, robótico, inquietante. Cambiar la nota no consigue esto.
+1379|Un poco inquieta. Mucho deja la voz irreconocible.
+1380|Una voz, varios cantantes. Más ancha y más llena.
+1381|Más copias, coro más grueso.
+1382|Una deriva lenta es más tranquila.
+1383|Más profundidad, desafinación más evidente.
+1384|Retardo más largo, más pinta de cantantes separados.
+1385|Reparte las copias por el estéreo.
+1386|Remolinos, bajo el agua, psicodélico.
+1387|Ajústalo al tempo de la canción para un barrido rítmico.
+1388|Barrido más amplio, más drama.
+1389|Mueve dónde cae el remolino en la voz.
+1390|Más etapas, efecto más fuerte.
+1391|Más realimentación, barrido más afilado.
+1392|Robótico, metálico, como una campana.
+1393|Seguir la nota lo mantiene musical en cada nota.
+1394|1 o 2 suenan musicales. Las proporciones raras suenan raras — a veces esa es la idea.
+1395|Cada nota recibe el mismo color robótico.
+1396|Suave es más limpio. Con zumbido es más áspero.
+1397|Susurro, radio, cinta vieja.
+1398|Del siseo brillante al retumbar oscuro.
+1399|Añade textura sin tapar las palabras.
+1400|El silencio entre notas sigue siendo silencio.
+1401|Limpia la voz para que encaje mejor en la mezcla.
+1402|Fuera el retumbe. La voz en sí no cambia.
+1403|Decide cuánto de los graves tocas.
+1404|Más cuerpo es más cálido. Menos es más ligero.
+1405|Apunta al problema exacto de la voz.
+1406|Súbelo para presencia. Bájalo para menos nasalidad.
+1407|Estrecho arregla una cosa y deja el resto en paz.
+1408|Decide cuánto de los agudos tocas.
+1409|Más aire, voz más brillante.
+1410|Doma la aspereza y el siseo.
+1411|Cerrar
+1412|Haz clic para ver la ayuda
+1413|Qué es
+1414|Por qué usarlo
+1415|Las notas de Robot salen con el volumen de sus samples. Sin saltos entre notas.
+1416|En temas muy oscuros o muy claros, un borde fino evita que las tarjetas desaparezcan.
+1417|Versión, licencia, créditos y dónde se guardan tus datos.
+1418|Licencia (GPL-3.0)
+1419|Créditos y licencias
+1420|Créditos
+1421|Las personas y los proyectos sobre los que se construye Voxa GEN.
+1422|Hecho por Rambyte Team.
+1423|Sonidos de la interfaz: charting sounds de Friday Night Funkin', de The Funkin' Crew Inc., usados con crédito.
+1424|Fuentes: Inter, de Rasmus Andersson (SIL OFL 1.1); VCR OSD Mono, de Riciery Leal, usada con crédito.
+1425|Análisis de tono y modo Legacy: Praat, de Paul Boersma y David Weenink, a través de Parselmouth, de Yannick Jadoul (GPL-3.0).
+1426|Análisis y síntesis de voz: WORLD, de Masanori Morise, a través de pyworld.
+1427|También: Qt / PySide6, NumPy, SciPy, libsndfile y libsoxr.
+1428|Versión pública
+1429|© 2026 Rambyte Team
+1430|Voxa GEN es software libre: puedes compartirlo y modificarlo según la GNU General Public License, versión 3 o posterior. No incluye ninguna garantía.
